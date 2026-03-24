@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Core neutrals */
+    --background: 40 33% 95%; /* #F5F0E8 cream */
+    --foreground: 0 0% 17%; /* #2C2C2C charcoal */
+
+    --card: 40 20% 99%; /* near white */
+    --card-foreground: 0 0% 17%;
+
+    --popover: 0 0% 98%;
+    --popover-foreground: 0 0% 17%;
+
+    /* Kenya green as primary */
+    --primary: 120 100% 20%; /* #006600 */
+    --primary-foreground: 40 20% 98%;
+
+    --secondary: 37 30% 88%; /* sand #E8E0D0 */
+    --secondary-foreground: 0 0% 17%;
+
+    --muted: 37 30% 88%;
+    --muted-foreground: 0 0% 60%; /* #9A9A9A */
+
+    --accent: 37 30% 88%;
+    --accent-foreground: 0 0% 17%;
+
+    --destructive: 7 97% 37%; /* Kenya red #BB1600 */
+    --destructive-foreground: 40 20% 98%;
+
+    --border: 37 20% 85%;
+    --input: 37 20% 85%;
+    --ring: 120 100% 20%;
+
+    --radius: 0.75rem;
+
+    /* Sidebar */
+    --sidebar-background: 0 0% 4%;
+    --sidebar-foreground: 40 20% 98%;
+    --sidebar-primary: 120 100% 20%;
+    --sidebar-primary-foreground: 40 20% 98%;
+    --sidebar-accent: 0 0% 10%;
+    --sidebar-accent-foreground: 40 20% 98%;
+    --sidebar-border: 0 0% 12%;
+    --sidebar-ring: 120 100% 20%;
+
+    /* Custom semantic tokens */
+    --black: 0 0% 4%; /* #0A0A0A */
+    --white: 40 20% 98%; /* #FAFAF9 */
+    --cream: 40 33% 95%;
+    --sand: 37 30% 88%;
+    --charcoal: 0 0% 17%;
+    --slate: 0 0% 42%; /* #6B6B6B */
+
+    /* Kenya flag */
+    --kenya-black: 0 0% 0%;
+    --kenya-red: 7 97% 37%;
+    --kenya-green: 120 100% 20%;
+
+    /* Arm colors */
+    --executive: 120 75% 24%; /* #1B5E20 */
+    --executive-bg: 120 47% 93%; /* #E8F5E9 */
+    --legislature: 214 83% 34%; /* #0D47A1 */
+    --legislature-bg: 210 68% 94%; /* #E3F2FD */
+    --judiciary: 277 73% 31%; /* #4A148C */
+    --judiciary-bg: 280 47% 93%; /* #F3E5F5 */
+    --security: 0 75% 27%; /* #B71C1C */
+    --security-bg: 0 100% 96%; /* #FFEBEE */
+    --county: 174 100% 15%; /* #004D40 */
+    --county-bg: 174 47% 93%; /* #E0F2F1 */
+    --admin: 24 100% 45%; /* #E65100 */
+    --admin-bg: 33 100% 94%; /* #FFF3E0 */
+    --independent: 95 57% 27%; /* #33691E */
+    --independent-bg: 88 47% 94%; /* #F1F8E9 */
+
+    /* Shadows */
+    --shadow-sm: 0 1px 3px rgba(0,0,0,.06);
+    --shadow-md: 0 4px 16px rgba(0,0,0,.08);
+    --shadow-lg: 0 12px 40px rgba(0,0,0,.12);
+    --shadow-xl: 0 24px 60px rgba(0,0,0,.16);
+
+    /* Radii */
+    --radius-sm: 6px;
+    --radius-lg: 20px;
+    --radius-pill: 100px;
+
+    /* Fonts */
+    --font-display: 'DM Serif Display', Georgia, serif;
+    --font-body: 'Plus Jakarta Sans', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  .dark {
+    --background: 0 0% 4%;
+    --foreground: 40 20% 98%;
+    --card: 0 0% 7%;
+    --card-foreground: 40 20% 98%;
+    --popover: 0 0% 7%;
+    --popover-foreground: 40 20% 98%;
+    --primary: 120 60% 45%;
+    --primary-foreground: 0 0% 4%;
+    --secondary: 0 0% 12%;
+    --secondary-foreground: 40 20% 98%;
+    --muted: 0 0% 12%;
+    --muted-foreground: 0 0% 60%;
+    --accent: 0 0% 12%;
+    --accent-foreground: 40 20% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 40 20% 98%;
+    --border: 0 0% 15%;
+    --input: 0 0% 15%;
+    --ring: 120 60% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.6;
+  }
+}
+
+/* Animations */
+@keyframes fadeSlideUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: .5; transform: scale(.8); }
+}
+
+.animate-fade-slide-up {
+  animation: fadeSlideUp 0.8s ease-out both;
+}
+
+.animate-fade-slide-up-1 {
+  animation: fadeSlideUp 0.8s ease-out 0.1s both;
+}
+
+.animate-fade-slide-up-2 {
+  animation: fadeSlideUp 0.8s ease-out 0.2s both;
+}
+
+.animate-fade-slide-up-3 {
+  animation: fadeSlideUp 0.8s ease-out 0.3s both;
+}
+
+.animate-fade-slide-up-4 {
+  animation: fadeSlideUp 0.8s ease-out 0.4s both;
+}
+
+.animate-pulse-dot {
+  animation: pulse-dot 2s infinite;
+}
+
+/* Custom scrollbar for tree */
+.tree-scroll::-webkit-scrollbar { width: 6px; }
+.tree-scroll::-webkit-scrollbar-track { background: transparent; }
+.tree-scroll::-webkit-scrollbar-thumb { background: hsl(var(--sand)); border-radius: 3px; }
+.tree-scroll { scrollbar-width: thin; scrollbar-color: hsl(var(--sand)) transparent; }
+
+/* Font utilities */
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-mono-custom {
+  font-family: var(--font-mono);
+}

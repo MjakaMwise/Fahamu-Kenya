@@ -1,0 +1,4468 @@
+{
+  "metadata": {
+    "title": "Republic of Kenya — Complete Government Structure",
+    "description": "Full hierarchical tree of all government positions and current officeholders, from the President to the Village Elder level.",
+    "as_of": "March 2026",
+    "constitutional_basis": "Constitution of Kenya, 2010",
+    "salary_source": "SRC Gazette Notices No. 10346, 10348 & 10350 (9 Aug 2023), Third Remuneration & Benefits Review Cycle, Phase II effective 1 July 2024",
+    "parliament_source": "Official Kenya Parliament PDF — List of Members by Parties, 13th Parliament, 22 May 2023",
+    "governors_source": "Council of Governors (COG); Jitimu.com (updated Jan 2026)",
+    "ps_source": "Vellum Kenya (March 2025 reshuffle)",
+    "notes": [
+      "All salaries are gross monthly in KSh. Net pay is lower after PAYE, SHIF (2.75%), NSSF, and Housing Levy (1.5%).",
+      "County Commissioners, Chiefs and Assistant Chiefs are career civil servants; individual names vary and are not centrally gazetted.",
+      "MPs list reflects May 2023 official Parliament PDF; some seats have since changed via by-elections.",
+      "A new Fourth SRC Review Cycle (2025-2029) commenced Dec 2025 — some figures may have updated."
+    ]
+  },
+  "tree": {
+    "id": "president",
+    "position": "President of the Republic of Kenya",
+    "level": "National",
+    "arm": "executive",
+    "current_officeholder": "H.E. Dr. William Samoei Ruto, C.G.H.",
+    "party": "UDA",
+    "since": "13 September 2022",
+    "salary_ksh_monthly_gross": 1443750,
+    "salary_breakdown": {
+      "basic": 866250,
+      "house_allowance": 350000,
+      "market_adjustment": 227500
+    },
+    "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+    "appointment_method": "Popular direct election — must win ≥50%+1 votes AND ≥25% in ≥24 of 47 counties (Art. 138)",
+    "constitutional_basis": "Art. 130–142, Constitution of Kenya 2010",
+    "term": "5 years, max 2 terms",
+    "notes": null,
+    "children": [
+      {
+        "id": "deputy_president",
+        "position": "Deputy President",
+        "level": "National",
+        "arm": "executive",
+        "current_officeholder": "Prof. Kithure Kindiki, E.G.H.",
+        "party": "UDA",
+        "since": "1 November 2024",
+        "salary_ksh_monthly_gross": 1227188,
+        "salary_breakdown": {
+          "basic": 736313,
+          "house_allowance": 300000,
+          "market_adjustment": 190875
+        },
+        "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+        "appointment_method": "Nominated by President; approved by National Assembly (Art. 149)",
+        "constitutional_basis": "Art. 147–150, Constitution of Kenya 2010",
+        "term": "Co-terminus with President",
+        "notes": "Sworn in after impeachment of Rigathi Gachagua on 17 Oct 2024",
+        "children": []
+      },
+      {
+        "id": "head_of_public_service",
+        "position": "Head of Public Service",
+        "level": "National",
+        "arm": "executive",
+        "current_officeholder": "Felix Koskei",
+        "party": null,
+        "since": "2022",
+        "salary_ksh_monthly_gross": 765188,
+        "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+        "appointment_method": "Appointed by President (Art. 155)",
+        "constitutional_basis": "Art. 155, Constitution of Kenya 2010",
+        "term": null,
+        "notes": "Coordinates the public service; chairs the Advisory Committee of PSC",
+        "children": []
+      },
+      {
+        "id": "chief_of_staff",
+        "position": "Chief of Staff, State House",
+        "level": "National",
+        "arm": "executive",
+        "current_officeholder": "Njee Muturi",
+        "party": null,
+        "since": "2022",
+        "salary_ksh_monthly_gross": null,
+        "salary_source": null,
+        "appointment_method": "Presidential appointment",
+        "constitutional_basis": null,
+        "term": null,
+        "notes": "Manages the President's office and schedule",
+        "children": []
+      },
+      {
+        "id": "attorney_general",
+        "position": "Attorney General",
+        "level": "National",
+        "arm": "executive",
+        "current_officeholder": "Dorcas Agik Oduor",
+        "party": null,
+        "since": "October 2023",
+        "salary_ksh_monthly_gross": 924000,
+        "salary_breakdown": {
+          "basic": 554400,
+          "house_allowance": 200000,
+          "market_adjustment": 169600
+        },
+        "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+        "appointment_method": "Nominated by President; approved by National Assembly (Art. 156)",
+        "constitutional_basis": "Art. 156, Constitution of Kenya 2010",
+        "term": null,
+        "notes": "Principal legal adviser to Government; ex-officio Cabinet member (non-voting)",
+        "children": []
+      },
+      {
+        "id": "cabinet",
+        "position": "Cabinet",
+        "level": "National",
+        "arm": "executive",
+        "current_officeholder": "22 Cabinet Secretaries (chaired by the President)",
+        "party": null,
+        "since": null,
+        "salary_ksh_monthly_gross": 924000,
+        "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023) — applies to each CS",
+        "appointment_method": "Nominated by President; vetted and approved by National Assembly (Art. 152)",
+        "constitutional_basis": "Art. 152–153, Constitution of Kenya 2010",
+        "term": "Co-terminus with President",
+        "notes": "Reshuffled July 2024, November 2024, January 2025, March–April 2025",
+        "children": [
+          {
+            "id": "cs_foreign",
+            "position": "CS — Foreign and Diaspora Affairs (Prime Cabinet Secretary)",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Dr. Musalia Mudavadi, E.G.H.",
+            "party": "ANC",
+            "since": "2022",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_interior",
+            "position": "CS — Interior and National Administration",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Onesimus Kipchumba Murkomen, E.G.H.",
+            "party": "UDA",
+            "since": "2022",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Line ministry over County Commissioners, Chiefs and Assistant Chiefs",
+            "children": [
+              {
+                "id": "county_commissioners",
+                "position": "County Commissioner (×47)",
+                "level": "County — National Govt Administration",
+                "arm": "field_admin",
+                "current_officeholder": "Varies by county — career civil servants appointed by Interior Ministry",
+                "party": null,
+                "since": null,
+                "salary_ksh_monthly_gross": "89748–120270",
+                "salary_source": "PSC salary scales Job Group Q, Phase II eff. 1 Jul 2024",
+                "appointment_method": "Career appointment through PSC / Ministry of Interior",
+                "constitutional_basis": "National Government Co-ordination Act, 2013",
+                "term": null,
+                "notes": "Represents National Govt at county level; chairs County Security Intelligence Committee",
+                "children": [
+                  {
+                    "id": "deputy_county_commissioners",
+                    "position": "Deputy County Commissioner (×290+)",
+                    "level": "Sub-County — National Govt Administration",
+                    "arm": "field_admin",
+                    "current_officeholder": "Varies by sub-county — career civil servants",
+                    "party": null,
+                    "since": null,
+                    "salary_ksh_monthly_gross": "77527–109089",
+                    "salary_source": "PSC salary scales Job Group P, Phase II eff. 1 Jul 2024",
+                    "appointment_method": "Career appointment through PSC / Interior Ministry",
+                    "constitutional_basis": "National Government Co-ordination Act, 2013",
+                    "term": null,
+                    "notes": "Represents National Govt at sub-county/constituency level",
+                    "children": [
+                      {
+                        "id": "chiefs",
+                        "position": "Chief — Location Chief (×6,000+)",
+                        "level": "Location — National Govt Administration",
+                        "arm": "field_admin",
+                        "current_officeholder": "Varies by location",
+                        "party": null,
+                        "since": null,
+                        "salary_ksh_monthly_gross": "30000–70000",
+                        "salary_source": "PSC/SRC civil service grades, Third Review Cycle 2021/22–2024/25",
+                        "appointment_method": "Competitively recruited by PSC — open advertisement; must reside in location; KCSE grade C minimum; NOT elected",
+                        "constitutional_basis": "National Government Co-ordination Act, 2013; Chiefs Act (Cap. 128)",
+                        "term": "Permanent and pensionable",
+                        "notes": "Most common salary ~KSh 40,000/mo",
+                        "children": [
+                          {
+                            "id": "assistant_chiefs",
+                            "position": "Assistant Chief — Sub-Location (×10,000+)",
+                            "level": "Sub-Location — National Govt Administration (Lowest formal tier)",
+                            "arm": "field_admin",
+                            "current_officeholder": "Varies by sub-location",
+                            "party": null,
+                            "since": null,
+                            "salary_ksh_monthly_gross": "26000–47000",
+                            "salary_source": "PSC/SRC civil service grades, Third Review Cycle 2021/22–2024/25",
+                            "appointment_method": "Competitively recruited by PSC — open advertisement; must reside in sub-location; KCSE C plain minimum; NOT elected",
+                            "constitutional_basis": "National Government Co-ordination Act, 2013; Chiefs Act (Cap. 128)",
+                            "term": "Permanent and pensionable",
+                            "notes": "Most common salary ~KSh 30,000/mo; manages Nyumba Kumi units",
+                            "children": [
+                              {
+                                "id": "village_elders",
+                                "position": "Village Elder / Nyumba Kumi Official",
+                                "level": "Village — Below Formal Government",
+                                "arm": "field_admin",
+                                "current_officeholder": "Community-selected volunteers",
+                                "party": null,
+                                "since": null,
+                                "salary_ksh_monthly_gross": 0,
+                                "salary_source": "Unpaid community volunteers",
+                                "appointment_method": "Selected by the community and the Assistant Chief",
+                                "constitutional_basis": "National Government Co-ordination Act, 2013 (Nyumba Kumi provisions)",
+                                "term": null,
+                                "notes": "May receive token allowances from county budgets in some areas",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "cs_treasury",
+            "position": "CS — National Treasury and Economic Planning",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "John Mbadi Ng'ongo, E.G.H.",
+            "party": "ODM",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Appointed July 2024 broad-based cabinet",
+            "children": []
+          },
+          {
+            "id": "cs_health",
+            "position": "CS — Health",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Aden Bare Duale, E.G.H.",
+            "party": "UDA",
+            "since": "April 2025",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Moved from Defence docket in April 2025 reshuffle",
+            "children": []
+          },
+          {
+            "id": "cs_defence",
+            "position": "CS — Defence",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Roselinda Soipan Tuya, E.G.H.",
+            "party": "UDA",
+            "since": "April 2025",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Moved from Environment docket in April 2025 reshuffle",
+            "children": []
+          },
+          {
+            "id": "cs_environment",
+            "position": "CS — Environment, Climate Change and Forestry",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Dr. Deborah Mlongo Barasa, E.G.H.",
+            "party": "UDA",
+            "since": "April 2025",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Moved from Health docket in April 2025 reshuffle",
+            "children": []
+          },
+          {
+            "id": "cs_education",
+            "position": "CS — Education",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Julius Migosi Ogamba",
+            "party": "UDA",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_agriculture",
+            "position": "CS — Agriculture and Livestock Development",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Mutahi Kagwe",
+            "party": "UDA",
+            "since": "January 2025",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Appointed January 2025",
+            "children": []
+          },
+          {
+            "id": "cs_roads",
+            "position": "CS — Roads and Transport",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Davis Kirui Chirchir, E.G.H.",
+            "party": "UDA",
+            "since": "2022",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_lands",
+            "position": "CS — Lands, Public Works, Housing and Urban Development",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Alice Wahome, E.G.H.",
+            "party": "UDA",
+            "since": "2022",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_energy",
+            "position": "CS — Energy and Petroleum",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "James Opiyo Wandayi",
+            "party": "ODM",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Appointed July 2024 broad-based cabinet",
+            "children": []
+          },
+          {
+            "id": "cs_water",
+            "position": "CS — Water, Sanitation and Irrigation",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Eric Muriithi Muuga",
+            "party": "UDA",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_trade",
+            "position": "CS — Investments, Trade and Industry",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Lee Kinyanjui",
+            "party": "UDA",
+            "since": "January 2025",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Former Governor of Nakuru County",
+            "children": []
+          },
+          {
+            "id": "cs_ict",
+            "position": "CS — Information, Communications and Digital Economy",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "William Kabogo Gitau",
+            "party": "UDA",
+            "since": "January 2025",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Former Governor of Kiambu County",
+            "children": []
+          },
+          {
+            "id": "cs_mining",
+            "position": "CS — Mining, Blue Economy and Maritime Affairs",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Hassan Ali Joho",
+            "party": "ODM",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Former Governor of Mombasa County",
+            "children": []
+          },
+          {
+            "id": "cs_coops",
+            "position": "CS — Co-operatives and MSMEs Development",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Wycliffe Ambetsa Oparanya, FCPA, E.G.H.",
+            "party": "ODM",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Former Governor of Kakamega County",
+            "children": []
+          },
+          {
+            "id": "cs_youth",
+            "position": "CS — Youth Affairs, Creative Economy and Sports",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Salim Mvurya, E.G.H.",
+            "party": "UDA",
+            "since": "2022",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_tourism",
+            "position": "CS — Tourism and Wildlife",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Rebecca Miano",
+            "party": "UDA",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Former KenGen CEO",
+            "children": []
+          },
+          {
+            "id": "cs_eac",
+            "position": "CS — East African Community, ASALs and Regional Development",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Beatrice Askul Moe",
+            "party": "UDA",
+            "since": "2022",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_labour",
+            "position": "CS — Labour and Social Protection",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Dr. Alfred Mutua",
+            "party": "Maendeleo Chap Chap / UDA coalition",
+            "since": "2022",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_gender",
+            "position": "CS — Gender, Culture, Arts and Heritage",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Nombuyekezo Titi Maswanya",
+            "party": "UDA",
+            "since": "2024",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cs_public_service",
+            "position": "CS — Public Service and Human Capital Development",
+            "level": "National",
+            "arm": "executive",
+            "current_officeholder": "Geoffrey Kiringa Ruku",
+            "party": "DP",
+            "since": "March 2025",
+            "salary_ksh_monthly_gross": 924000,
+            "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+            "appointment_method": "Presidential nomination + NA approval",
+            "constitutional_basis": "Art. 152",
+            "term": null,
+            "notes": "Nominated March 2025; former MP for Mbeere North",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "principal_secretaries",
+        "position": "Principal Secretaries (55+ State Departments)",
+        "level": "National",
+        "arm": "executive",
+        "current_officeholder": "Various — see members array",
+        "party": null,
+        "since": null,
+        "salary_ksh_monthly_gross": 765188,
+        "salary_breakdown": {
+          "basic": 459113,
+          "house_allowance": 150000,
+          "market_adjustment": 156075
+        },
+        "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+        "appointment_method": "Recommended by PSC; nominated and appointed by President with NA approval (Art. 155)",
+        "constitutional_basis": "Art. 155, Constitution of Kenya 2010",
+        "term": "Pleasure of the President",
+        "notes": "March 2025 reshuffle appointed 15 new PSs (Executive Order No. 1 of 2025)",
+        "members": [
+          {
+            "state_department": "Cabinet Affairs",
+            "name": "Julius Korir"
+          },
+          {
+            "state_department": "Foreign Affairs",
+            "name": "Dr. Korir Sing'oei, PhD, E.B.S."
+          },
+          {
+            "state_department": "Diaspora Affairs",
+            "name": "Roseline K. Njogu"
+          },
+          {
+            "state_department": "Parliamentary Affairs",
+            "name": "Aurelia C. Rono"
+          },
+          {
+            "state_department": "Office of the Prime Cabinet Secretary",
+            "name": "Ahmed Abdisalan Ibrahim"
+          },
+          {
+            "state_department": "Internal Security and National Administration",
+            "name": "Dr. Raymond V.O. Omollo, PhD"
+          },
+          {
+            "state_department": "Correctional Services",
+            "name": "Salome W. Muhia-Beacco"
+          },
+          {
+            "state_department": "Immigration and Citizen Services",
+            "name": "Dr. Belio R. Kipsang, PhD, C.B.S."
+          },
+          {
+            "state_department": "National Treasury",
+            "name": "Dr. Boniface Makokha"
+          },
+          {
+            "state_department": "Public Investments and Assets Management",
+            "name": "Cyrell Wagunda Odede"
+          },
+          {
+            "state_department": "Roads",
+            "name": "Eng. Joseph M. Mbugua"
+          },
+          {
+            "state_department": "Transport",
+            "name": "Mohamed A. Daghar"
+          },
+          {
+            "state_department": "Lands and Physical Planning",
+            "name": "Generali Korir Nixon"
+          },
+          {
+            "state_department": "Housing and Urban Development",
+            "name": "Charles Hinga Mwaura, C.B.S."
+          },
+          {
+            "state_department": "Public Works",
+            "name": "Joel Psimatwa Loremoi Arumonyang"
+          },
+          {
+            "state_department": "Energy",
+            "name": "Alex K. Wachira"
+          },
+          {
+            "state_department": "Petroleum",
+            "name": "Kabelo Molobeli Bonolo"
+          },
+          {
+            "state_department": "Broadcasting and Telecommunications",
+            "name": "Stephen Isaboke"
+          },
+          {
+            "state_department": "ICT and Digital Economy",
+            "name": "Eng. John K. Tanui, M.B.S."
+          },
+          {
+            "state_department": "Medical Services",
+            "name": "Dr. Oluga Ouma"
+          },
+          {
+            "state_department": "Health Standards and Professional Management",
+            "name": "Dr. Joseph Mburu"
+          },
+          {
+            "state_department": "Basic Education",
+            "name": "Prof. Julius Bitok, PhD, M.B.S."
+          },
+          {
+            "state_department": "TVET",
+            "name": "Dr. Esther T. Muoria, PhD"
+          },
+          {
+            "state_department": "Higher Education and Research",
+            "name": "Dr. Beatrice M. Inyangala, PhD"
+          },
+          {
+            "state_department": "University Education",
+            "name": "Prof. Abdulrazak Shaukat"
+          },
+          {
+            "state_department": "Agriculture",
+            "name": "Paul Ronoh"
+          },
+          {
+            "state_department": "Livestock",
+            "name": "Harry Kimtai, C.B.S."
+          },
+          {
+            "state_department": "Fisheries",
+            "name": "Mwanamaka Mabruki"
+          },
+          {
+            "state_department": "Water and Sanitation",
+            "name": "Josephine Mayuya"
+          },
+          {
+            "state_department": "Irrigation",
+            "name": "Gitonga Mugambi"
+          },
+          {
+            "state_department": "Environment",
+            "name": "Eng. Mary Wanjiku Mwangi"
+          },
+          {
+            "state_department": "Climate Change and Forestry",
+            "name": "Dr. Festus Ng'eno"
+          },
+          {
+            "state_department": "Investments and Trade",
+            "name": "Regina Akoth"
+          },
+          {
+            "state_department": "Industry",
+            "name": "Johnson Weru"
+          },
+          {
+            "state_department": "Blue Economy and Maritime",
+            "name": "Aden Abdi Millah"
+          },
+          {
+            "state_department": "Co-operatives",
+            "name": "Patrick Kilemi"
+          },
+          {
+            "state_department": "MSMEs",
+            "name": "Nadia Ahmed Abdalla"
+          },
+          {
+            "state_department": "Youth Affairs",
+            "name": "Fikirini Kahindi Jacobs"
+          },
+          {
+            "state_department": "Sports",
+            "name": "Elijah Mwangi"
+          },
+          {
+            "state_department": "Creative Economy",
+            "name": "Ababu Namwamba"
+          },
+          {
+            "state_department": "Tourism",
+            "name": "John Ololtiptip"
+          },
+          {
+            "state_department": "Wildlife",
+            "name": "Silvia Museiya"
+          },
+          {
+            "state_department": "East African Community",
+            "name": "Dr. Caroline Karugu"
+          },
+          {
+            "state_department": "ASALs and Regional Development",
+            "name": "Ismail Madey"
+          },
+          {
+            "state_department": "Labour",
+            "name": "CPA Carren Ageng'o Achieng"
+          },
+          {
+            "state_department": "Social Protection",
+            "name": "Antonina Wanjiku Kananu"
+          },
+          {
+            "state_department": "Gender",
+            "name": "Leah Munyao"
+          },
+          {
+            "state_department": "Culture, Arts and Heritage",
+            "name": "Josephine Ingutia"
+          },
+          {
+            "state_department": "Public Service and Human Capital",
+            "name": "Dr. Jane Kere Imbunya"
+          },
+          {
+            "state_department": "Deputy Head of Public Service",
+            "name": "Amos Gathecha"
+          },
+          {
+            "state_department": "Justice, Human Rights and Constitutional Affairs",
+            "name": "Judith Naiyai Pareno"
+          },
+          {
+            "state_department": "Aviation and Aerospace Development",
+            "name": "Teresia Mbaika"
+          },
+          {
+            "state_department": "Office of the Deputy President",
+            "name": "Michael Lenasalon"
+          },
+          {
+            "state_department": "Defence (internal admin)",
+            "name": "Classified / Not publicly listed"
+          },
+          {
+            "state_department": "Mining",
+            "name": "Harry Kimtai, C.B.S. (dual role noted)"
+          }
+        ],
+        "children": []
+      },
+      {
+        "id": "national_security_council",
+        "position": "National Security Council",
+        "level": "National",
+        "arm": "security",
+        "current_officeholder": "Chaired by the President",
+        "party": null,
+        "since": null,
+        "salary_ksh_monthly_gross": null,
+        "salary_source": null,
+        "appointment_method": "Constitutional body (Art. 240)",
+        "constitutional_basis": "Art. 240, Constitution of Kenya 2010; National Security Council Act",
+        "term": null,
+        "notes": "Members: President, DP, CS Defence, CS Foreign Affairs, CS Interior, CJ (observer), AG (observer)",
+        "children": [
+          {
+            "id": "inspector_general_police",
+            "position": "Inspector General of National Police Service",
+            "level": "National",
+            "arm": "security",
+            "current_officeholder": "Douglas Kanja Kirocho, MGH, CBS, OGW",
+            "party": null,
+            "since": "2022",
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Appointed by President with National Assembly approval (Art. 245)",
+            "constitutional_basis": "Art. 245, Constitution of Kenya 2010; National Police Service Act",
+            "term": "4 years, non-renewable",
+            "notes": null,
+            "children": [
+              {
+                "id": "dig_kps",
+                "position": "Deputy Inspector General — Kenya Police Service",
+                "level": "National",
+                "arm": "security",
+                "current_officeholder": "Eliud Kipkoech Lagat",
+                "party": null,
+                "since": "October 2025",
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Appointed by President (Art. 245)",
+                "constitutional_basis": "Art. 245, Constitution of Kenya 2010",
+                "term": null,
+                "notes": "Sworn in October 2025",
+                "children": []
+              },
+              {
+                "id": "dig_aps",
+                "position": "Deputy Inspector General — Administration Police Service",
+                "level": "National",
+                "arm": "security",
+                "current_officeholder": "Gilbert Masengeli",
+                "party": null,
+                "since": "October 2025",
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Appointed by President (Art. 245)",
+                "constitutional_basis": "Art. 245, Constitution of Kenya 2010",
+                "term": null,
+                "notes": "Sworn in October 2025",
+                "children": []
+              },
+              {
+                "id": "dci_director",
+                "position": "Director — Directorate of Criminal Investigations (DCI)",
+                "level": "National",
+                "arm": "security",
+                "current_officeholder": "Amin Mohammed Ibrahim, CBS, EBS, OGW",
+                "party": null,
+                "since": "2022",
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Appointed by Inspector General with IG of Police approval; National Police Service Commission oversight",
+                "constitutional_basis": "National Police Service Act, 2011",
+                "term": null,
+                "notes": null,
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "nis_dg",
+            "position": "Director General — National Intelligence Service (NIS)",
+            "level": "National",
+            "arm": "security",
+            "current_officeholder": "Noordin M. Haji",
+            "party": null,
+            "since": "2022",
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Appointed by President with National Assembly approval",
+            "constitutional_basis": "National Security Council Act; National Intelligence Service Act",
+            "term": null,
+            "notes": "Former Director of Public Prosecutions (DPP)",
+            "children": []
+          },
+          {
+            "id": "ckdf",
+            "position": "Chief of Kenya Defence Forces",
+            "level": "National",
+            "arm": "security",
+            "current_officeholder": "General Charles Muriu Kahariri, CBS, EBS, ndc",
+            "party": null,
+            "since": "2022",
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Appointed by President with National Assembly approval (Art. 241)",
+            "constitutional_basis": "Art. 241, Constitution of Kenya 2010; Kenya Defence Forces Act",
+            "term": null,
+            "notes": "Commander-in-Chief is the President",
+            "children": [
+              {
+                "id": "army_cmd",
+                "position": "Commander — Kenya Army",
+                "level": "National",
+                "arm": "security",
+                "current_officeholder": "Maj-Gen Peter Njiru Muteti",
+                "party": null,
+                "since": null,
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Presidential appointment on advice of CDF",
+                "constitutional_basis": "Kenya Defence Forces Act",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "airforce_cmd",
+                "position": "Commander — Kenya Air Force",
+                "level": "National",
+                "arm": "security",
+                "current_officeholder": "Air Marshal Johnson Kavuludi",
+                "party": null,
+                "since": null,
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Presidential appointment on advice of CDF",
+                "constitutional_basis": "Kenya Defence Forces Act",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "navy_cmd",
+                "position": "Commander — Kenya Navy",
+                "level": "National",
+                "arm": "security",
+                "current_officeholder": "Vice Admiral Linet Munyasia",
+                "party": null,
+                "since": null,
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Presidential appointment on advice of CDF",
+                "constitutional_basis": "Kenya Defence Forces Act",
+                "term": null,
+                "notes": "First woman to command Kenya Navy",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "parliament",
+        "position": "Parliament of Kenya",
+        "level": "National",
+        "arm": "legislature",
+        "current_officeholder": "Bicameral — National Assembly + Senate",
+        "party": null,
+        "since": null,
+        "salary_ksh_monthly_gross": null,
+        "salary_source": null,
+        "appointment_method": "Independent constitutional body (Art. 93)",
+        "constitutional_basis": "Chapter 8 (Art. 93–128), Constitution of Kenya 2010",
+        "term": "5-year terms; 13th Parliament 2022–2027",
+        "notes": null,
+        "children": [
+          {
+            "id": "national_assembly",
+            "position": "National Assembly",
+            "level": "National — Legislature",
+            "arm": "legislature",
+            "current_officeholder": "Speaker: Dr. Moses M. Wetang'ula, E.G.H.",
+            "party": "FORD-Kenya (Speaker is non-partisan in office)",
+            "since": "September 2022",
+            "salary_ksh_monthly_gross": 1208362,
+            "salary_source": "SRC Gazette Notice No. 10350 (9 Aug 2023) — Speaker salary",
+            "appointment_method": "Speaker elected by MPs; MPs elected by popular vote (Art. 97, 106)",
+            "constitutional_basis": "Art. 95–104, Constitution of Kenya 2010",
+            "term": "Speaker: co-terminus with Parliament; MPs: 5 years",
+            "notes": "290 constituency seats + 47 County Women Reps + 12 Nominated = 349 total members",
+            "children": [
+              {
+                "id": "dsp_na",
+                "position": "Deputy Speaker — National Assembly",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Gladys Jepkosgei Boss Shollei",
+                "party": "UDA",
+                "constituency": "Uasin Gishu CWR",
+                "county": "Uasin Gishu",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Elected by MPs",
+                "constitutional_basis": "Art. 106",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "majority_leader_na",
+                "position": "Majority Leader — National Assembly",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Kimani Ichung'wah",
+                "party": "UDA",
+                "constituency": "Kikuyu",
+                "county": "Kiambu",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Nominated by majority party",
+                "constitutional_basis": "Standing Orders",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "minority_leader_na",
+                "position": "Minority Leader — National Assembly",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Junet Mohamed",
+                "party": "ODM",
+                "constituency": "Suna East",
+                "county": "Migori",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Nominated by minority coalition",
+                "constitutional_basis": "Standing Orders",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "clerk_na",
+                "position": "Clerk — National Assembly",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Samuel Njoroge",
+                "party": null,
+                "since": null,
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Parliamentary Service Commission",
+                "constitutional_basis": "Art. 127",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "mps",
+                "position": "Members of Parliament — National Assembly (349)",
+                "level": "National — Constituency / County",
+                "arm": "legislature",
+                "current_officeholder": "See members array below",
+                "party": "Various",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_breakdown": {
+                  "basic": 443760,
+                  "house_allowance": 150000,
+                  "market_adjustment": 145840
+                },
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Popular direct election (constituencies); Presidential nomination (nominated seats)",
+                "constitutional_basis": "Art. 97–99, Constitution of Kenya 2010",
+                "term": "5 years",
+                "notes": "List as at 22 May 2023 (Official Parliament PDF). CWR = County Women Representative.",
+                "members": [
+                  {
+                    "name": "Adagala, Beatrice Kahai",
+                    "party": "ANC",
+                    "constituency": "Vihiga (CWR)",
+                    "county": "Vihiga"
+                  },
+                  {
+                    "name": "Denar, Joseph Hamisi",
+                    "party": "ANC",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Gimose, Charles Gumini",
+                    "party": "ANC",
+                    "constituency": "Hamisi",
+                    "county": "Vihiga"
+                  },
+                  {
+                    "name": "IkanaM, Frederick Lusuli",
+                    "party": "ANC",
+                    "constituency": "Shinyalu",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Injendi, Moses Malulu",
+                    "party": "ANC",
+                    "constituency": "Malava",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Kagesi, Kivai Ernest Ogesi",
+                    "party": "ANC",
+                    "constituency": "Vihiga",
+                    "county": "Vihiga"
+                  },
+                  {
+                    "name": "Omboko, Milemba Jeremiah",
+                    "party": "ANC",
+                    "constituency": "Emuhaya",
+                    "county": "Vihiga"
+                  },
+                  {
+                    "name": "Tandaza, Kassim Sawa",
+                    "party": "ANC",
+                    "constituency": "Matuga",
+                    "county": "Kwale"
+                  },
+                  {
+                    "name": "Koech, Victor Kipngetich",
+                    "party": "CCM",
+                    "constituency": "Chepalungu",
+                    "county": "Bomet"
+                  },
+                  {
+                    "name": "Barasa, Patrick Simiyu",
+                    "party": "DAP-K",
+                    "constituency": "Cherangany",
+                    "county": "Trans-Nzoia"
+                  },
+                  {
+                    "name": "Bisau, Maurice Kakai",
+                    "party": "DAP-K",
+                    "constituency": "Kiminini",
+                    "county": "Trans-Nzoia"
+                  },
+                  {
+                    "name": "Oyugi, Dick Maungu",
+                    "party": "DAP-K",
+                    "constituency": "Luanda",
+                    "county": "Vihiga"
+                  },
+                  {
+                    "name": "Salasya, Peter Kalerwa",
+                    "party": "DAP-K",
+                    "constituency": "Mumias East",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Wamboka, Nelson Jack",
+                    "party": "DAP-K",
+                    "constituency": "Bumula",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Ruku, Geoffrey Kariuki Kiringa",
+                    "party": "DP",
+                    "constituency": "Mbeere North",
+                    "county": "Embu",
+                    "notes": "Nominated CS for Public Service Mar 2025"
+                  },
+                  {
+                    "name": "Kalasinga, Joseph Simiyu Wekesa Majimbo",
+                    "party": "FORD-K",
+                    "constituency": "Kabuchai",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Makali, John Okwisia",
+                    "party": "FORD-K",
+                    "constituency": "Kanduyi",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Murumba, John Chikati",
+                    "party": "FORD-K",
+                    "constituency": "Tongaren",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Wambilianga, Catherine Nanjala",
+                    "party": "FORD-K",
+                    "constituency": "Busia (CWR)",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Wanyonyi, Ferdinand Kevin",
+                    "party": "FORD-K",
+                    "constituency": "Kwanza",
+                    "county": "Trans-Nzoia"
+                  },
+                  {
+                    "name": "Wanyonyi, Martin Pepela",
+                    "party": "FORD-K",
+                    "constituency": "Webuye West",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Muli, Fabian Kyule",
+                    "party": "GDDP",
+                    "constituency": "Kangundo",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Abdul, Rahim Dawood",
+                    "party": "Independent",
+                    "constituency": "North Imenti",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Ahmed, Shakeel Ahmed Shabbir",
+                    "party": "Independent",
+                    "constituency": "Kisumu East",
+                    "county": "Kisumu"
+                  },
+                  {
+                    "name": "Caroline, Jeptoo Ng'elechei",
+                    "party": "Independent",
+                    "constituency": "Elgeyo Marakwet (CWR)",
+                    "county": "Elgeyo-Marakwet"
+                  },
+                  {
+                    "name": "Karauri, Ronald Kamwiko",
+                    "party": "Independent",
+                    "constituency": "Kasarani",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Kitilai, Ole Ntutu",
+                    "party": "Independent",
+                    "constituency": "Narok South",
+                    "county": "Narok"
+                  },
+                  {
+                    "name": "Kururia, Elijah Njore Njoroge",
+                    "party": "Independent",
+                    "constituency": "Gatundu North",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Marubu, Monicah Muthoni",
+                    "party": "Independent",
+                    "constituency": "Lamu (CWR)",
+                    "county": "Lamu"
+                  },
+                  {
+                    "name": "Mohammed, Fatuma Zainabu",
+                    "party": "Independent",
+                    "constituency": "Migori (CWR)",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Mulanya, Geoffrey Ekesa",
+                    "party": "Independent",
+                    "constituency": "Nambale",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Mwalyo, Joshua Mbithi Mutua",
+                    "party": "Independent",
+                    "constituency": "Masinga",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Nebart, Bernard Muriuki",
+                    "party": "Independent",
+                    "constituency": "Mbeere South",
+                    "county": "Embu"
+                  },
+                  {
+                    "name": "Toroitich, Timothy Kipchumba",
+                    "party": "Independent",
+                    "constituency": "Marakwet West",
+                    "county": "Elgeyo-Marakwet"
+                  },
+                  {
+                    "name": "Abdirahman, Mohamed Abdi",
+                    "party": "JP",
+                    "constituency": "Lafey",
+                    "county": "Mandera"
+                  },
+                  {
+                    "name": "Arama, Samuel",
+                    "party": "JP",
+                    "constituency": "Nakuru Town West",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Bonaya, Mumina Gollo",
+                    "party": "JP",
+                    "constituency": "Isiolo (CWR)",
+                    "county": "Isiolo"
+                  },
+                  {
+                    "name": "Chege, Sabina Wanjiru",
+                    "party": "JP",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Hassan, Abdi Yusuf",
+                    "party": "JP",
+                    "constituency": "Kamkunji",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Ithinji, Dr. Shadrack Mwiti",
+                    "party": "JP",
+                    "constituency": "South Imenti",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Karitho, Kiili Daniel",
+                    "party": "JP",
+                    "constituency": "Igembe Central",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Kiaraho, David Njuguna",
+                    "party": "JP",
+                    "constituency": "Ol Kalou",
+                    "county": "Nyandarua"
+                  },
+                  {
+                    "name": "Korere, Sarah Paulata",
+                    "party": "JP",
+                    "constituency": "Laikipia North",
+                    "county": "Laikipia"
+                  },
+                  {
+                    "name": "Koyi, John Waluke",
+                    "party": "JP",
+                    "constituency": "Sirisia",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Kwenya, Thuku Zachary",
+                    "party": "JP",
+                    "constituency": "Kinangop",
+                    "county": "Nyandarua"
+                  },
+                  {
+                    "name": "Lomwa, Joseph Samal",
+                    "party": "JP",
+                    "constituency": "Isiolo North",
+                    "county": "Isiolo"
+                  },
+                  {
+                    "name": "Maina, Mwago Amos",
+                    "party": "JP",
+                    "constituency": "Starehe",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Mogaka, Stephen M.",
+                    "party": "JP",
+                    "constituency": "West Mugirango",
+                    "county": "Nyamira"
+                  },
+                  {
+                    "name": "Mohamed, Aden Daudi",
+                    "party": "JP",
+                    "constituency": "Wajir East",
+                    "county": "Wajir"
+                  },
+                  {
+                    "name": "Mongina, Jerusha Momanyi",
+                    "party": "JP",
+                    "constituency": "Nyamira (CWR)",
+                    "county": "Nyamira"
+                  },
+                  {
+                    "name": "Mrembo, Irene Njoki",
+                    "party": "JP",
+                    "constituency": "Bahati",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Muiruri, Muthama Stanley",
+                    "party": "JP",
+                    "constituency": "Lamu West",
+                    "county": "Lamu"
+                  },
+                  {
+                    "name": "Mwenje, Mark Samuel Muriithi",
+                    "party": "JP",
+                    "constituency": "Embakasi West",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Ngikolong, Nicholas Ng'ikor Nixon",
+                    "party": "JP",
+                    "constituency": "Turkana East",
+                    "county": "Turkana"
+                  },
+                  {
+                    "name": "Nyamai, Rachael Kaki",
+                    "party": "JP",
+                    "constituency": "Kitui South",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Obo, Ruweida Mohamed",
+                    "party": "JP",
+                    "constituency": "Lamu East",
+                    "county": "Lamu"
+                  },
+                  {
+                    "name": "Pareiyo, Agnes Mantaine",
+                    "party": "JP",
+                    "constituency": "Narok North",
+                    "county": "Narok"
+                  },
+                  {
+                    "name": "Shake, Peter Mbogho",
+                    "party": "JP",
+                    "constituency": "Mwatate",
+                    "county": "Taita-Taveta"
+                  },
+                  {
+                    "name": "Shurie, Abdi Omar",
+                    "party": "JP",
+                    "constituency": "Balambala",
+                    "county": "Garissa"
+                  },
+                  {
+                    "name": "Siyad, Amina Udgoon",
+                    "party": "JP",
+                    "constituency": "Garissa (CWR)",
+                    "county": "Garissa"
+                  },
+                  {
+                    "name": "Tubi, Bidu Mohamed",
+                    "party": "JP",
+                    "constituency": "Isiolo South",
+                    "county": "Isiolo"
+                  },
+                  {
+                    "name": "Wehliye, Adan Keynan",
+                    "party": "JP",
+                    "constituency": "Eldas",
+                    "county": "Wajir"
+                  },
+                  {
+                    "name": "Abdullahi, Amina Dika",
+                    "party": "KANU",
+                    "constituency": "Tana River (CWR)",
+                    "county": "Tana River"
+                  },
+                  {
+                    "name": "Guyo, Adhe Wario",
+                    "party": "KANU",
+                    "constituency": "North Horr",
+                    "county": "Marsabit"
+                  },
+                  {
+                    "name": "Kassait, William Kamket",
+                    "party": "KANU",
+                    "constituency": "Tiaty",
+                    "county": "Baringo"
+                  },
+                  {
+                    "name": "Lentoijoni, Jackson Lekumontare",
+                    "party": "KANU",
+                    "constituency": "Samburu East",
+                    "county": "Samburu"
+                  },
+                  {
+                    "name": "Lesuuda, Josephine Naisula",
+                    "party": "KANU",
+                    "constituency": "Samburu West",
+                    "county": "Samburu"
+                  },
+                  {
+                    "name": "Sunkuli, Julius Lekakeny Ole",
+                    "party": "KANU",
+                    "constituency": "Kilgoris",
+                    "county": "Narok"
+                  },
+                  {
+                    "name": "Kasiwai, Rael Chepkemoi",
+                    "party": "KUP",
+                    "constituency": "West Pokot (CWR)",
+                    "county": "West Pokot"
+                  },
+                  {
+                    "name": "Pkosing, David Losiakou",
+                    "party": "KUP",
+                    "constituency": "Pokot South",
+                    "county": "West Pokot"
+                  },
+                  {
+                    "name": "Titus, Lotee",
+                    "party": "KUP",
+                    "constituency": "Kacheliba",
+                    "county": "West Pokot"
+                  },
+                  {
+                    "name": "Mule, Caleb Mutiso",
+                    "party": "MCCP",
+                    "constituency": "Machakos Town",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Mutuse, Eckomas Mwengi",
+                    "party": "MCCP",
+                    "constituency": "Kibwezi West",
+                    "county": "Makueni"
+                  },
+                  {
+                    "name": "Ochieng, David Ouma",
+                    "party": "MDG",
+                    "constituency": "Ugenya",
+                    "county": "Siaya"
+                  },
+                  {
+                    "name": "Abdi, Abdi Ali",
+                    "party": "NAP-K",
+                    "constituency": "Ijara",
+                    "county": "Garissa"
+                  },
+                  {
+                    "name": "Aburi, Lawrence Mpuru",
+                    "party": "NOPEU",
+                    "constituency": "Tigania East",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Abdirahman, Husseinweytan Mohamed",
+                    "party": "ODM",
+                    "constituency": "Mandera East",
+                    "county": "Mandera"
+                  },
+                  {
+                    "name": "Abuor, Paul",
+                    "party": "ODM",
+                    "constituency": "Rongo",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Adow, Mohamed Aden",
+                    "party": "ODM",
+                    "constituency": "Wajir South",
+                    "county": "Wajir"
+                  },
+                  {
+                    "name": "Amollo, Paul Otiende",
+                    "party": "ODM",
+                    "constituency": "Rarieda",
+                    "county": "Siaya"
+                  },
+                  {
+                    "name": "Samuel Onunga",
+                    "party": "ODM",
+                    "constituency": "Alego Usonga",
+                    "county": "Siaya"
+                  },
+                  {
+                    "name": "Bady, Bady Twalib",
+                    "party": "ODM",
+                    "constituency": "Jomvu",
+                    "county": "Mombasa"
+                  },
+                  {
+                    "name": "Barongo, Nolfason Obadiah",
+                    "party": "ODM",
+                    "constituency": "Bomachoge Borabu",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Bedzimba, Rashid Juma",
+                    "party": "ODM",
+                    "constituency": "Kisauni",
+                    "county": "Mombasa"
+                  },
+                  {
+                    "name": "Busia, Ruth Adhiambo Odinga",
+                    "party": "ODM",
+                    "constituency": "Kisumu (CWR)",
+                    "county": "Kisumu"
+                  },
+                  {
+                    "name": "Buyu, Rozaah Akinyi",
+                    "party": "ODM",
+                    "constituency": "Kisumu West",
+                    "county": "Kisumu"
+                  },
+                  {
+                    "name": "Chimba, Zamzam Mohamed",
+                    "party": "ODM",
+                    "constituency": "Mombasa (CWR)",
+                    "county": "Mombasa"
+                  },
+                  {
+                    "name": "Elachi, Beatrice Kadeveresia",
+                    "party": "ODM",
+                    "constituency": "Dagoretti North",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Farah, Yussuf Mohamed",
+                    "party": "ODM",
+                    "constituency": "Wajir West",
+                    "county": "Wajir"
+                  },
+                  {
+                    "name": "Francis, Kajwang' Tom Joseph",
+                    "party": "ODM",
+                    "constituency": "Ruaraka",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Gisairo, Clive Ombane",
+                    "party": "ODM",
+                    "constituency": "Kitutu Masaba",
+                    "county": "Nyamira"
+                  },
+                  {
+                    "name": "Gogo, Lilian Achieng",
+                    "party": "ODM",
+                    "constituency": "Rangwe",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Guyo, Ali Wario",
+                    "party": "ODM",
+                    "constituency": "Garsen",
+                    "county": "Tana River"
+                  },
+                  {
+                    "name": "Hamisi, Kakuta Maimai",
+                    "party": "ODM",
+                    "constituency": "Kajiado East",
+                    "county": "Kajiado"
+                  },
+                  {
+                    "name": "Hiribae, Said Buya",
+                    "party": "ODM",
+                    "constituency": "Galole",
+                    "county": "Tana River"
+                  },
+                  {
+                    "name": "Jehow, Fatuma Abdi",
+                    "party": "ODM",
+                    "constituency": "Wajir (CWR)",
+                    "county": "Wajir"
+                  },
+                  {
+                    "name": "Kaluma, George Peter Opondo",
+                    "party": "ODM",
+                    "constituency": "Homa Bay Town",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Kanchory, Elijah Memusi",
+                    "party": "ODM",
+                    "constituency": "Kajiado Central",
+                    "county": "Kajiado"
+                  },
+                  {
+                    "name": "Katana, Paul Kahindi",
+                    "party": "ODM",
+                    "constituency": "Kaloleni",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Khodhe, Phelix Odiwuor",
+                    "party": "ODM",
+                    "constituency": "Langata",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Kibagendi, Antoney",
+                    "party": "ODM",
+                    "constituency": "Kitutu Chache South",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Kiti, Richard Ken Chonga",
+                    "party": "ODM",
+                    "constituency": "Kilifi South",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Kombe, Harrison Garama",
+                    "party": "ODM",
+                    "constituency": "Magarini",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Luyai, Caleb Amisi",
+                    "party": "ODM",
+                    "constituency": "Saboti",
+                    "county": "Trans-Nzoia"
+                  },
+                  {
+                    "name": "Machele, Mohamed Soud",
+                    "party": "ODM",
+                    "constituency": "Mvita",
+                    "county": "Mombasa"
+                  },
+                  {
+                    "name": "Manduku, Daniel Ogwoka",
+                    "party": "ODM",
+                    "constituency": "Nyaribari Masaba",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Masara, Peter Francis",
+                    "party": "ODM",
+                    "constituency": "Suna West",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Masito, Fatuma Hamisi",
+                    "party": "ODM",
+                    "constituency": "Kwale (CWR)",
+                    "county": "Kwale"
+                  },
+                  {
+                    "name": "Mayaka, Irene Nyakerario",
+                    "party": "ODM",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Mboko, Mishi Juma Khamisi",
+                    "party": "ODM",
+                    "constituency": "Likoni",
+                    "county": "Mombasa"
+                  },
+                  {
+                    "name": "Mohamed, Abdikadir Hussein",
+                    "party": "ODM",
+                    "constituency": "Lagdera",
+                    "county": "Garissa"
+                  },
+                  {
+                    "name": "Mohamed, Junet Sheikh Nuh",
+                    "party": "ODM",
+                    "constituency": "Suna East",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Mohamed, Umulkher Harun",
+                    "party": "ODM",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Mugabe, Innocent Maino",
+                    "party": "ODM",
+                    "constituency": "Likuyani",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Muhanda, Elsie Busihile",
+                    "party": "ODM",
+                    "constituency": "Kakamega (CWR)",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Mukhwana, Titus Khamala",
+                    "party": "ODM",
+                    "constituency": "Lurambi",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Mwale, Nicholas S. Tindi",
+                    "party": "ODM",
+                    "constituency": "Butere",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Mwanyanje, Gertrude Mbeyu",
+                    "party": "ODM",
+                    "constituency": "Kilifi (CWR)",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Mnyazi, Amina Laura",
+                    "party": "ODM",
+                    "constituency": "Malindi",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Nabii, Nabwera Daraja",
+                    "party": "ODM",
+                    "constituency": "Lugari",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Nabulindo, Peter Oscar",
+                    "party": "ODM",
+                    "constituency": "Matungu",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Naibun, Paul Ekwom",
+                    "party": "ODM",
+                    "constituency": "Turkana North",
+                    "county": "Turkana"
+                  },
+                  {
+                    "name": "Naicca, Johnson Manya",
+                    "party": "ODM",
+                    "constituency": "Mumias West",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Namoit, John Ariko",
+                    "party": "ODM",
+                    "constituency": "Turkana South",
+                    "county": "Turkana"
+                  },
+                  {
+                    "name": "Ng'ongo, John Mbadi",
+                    "party": "ODM",
+                    "constituency": "Nominated",
+                    "county": null,
+                    "notes": "Now CS National Treasury — seat likely vacated"
+                  },
+                  {
+                    "name": "Nyamita, Mark Ogolla",
+                    "party": "ODM",
+                    "constituency": "Uriri",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Nyikal, James Wambura",
+                    "party": "ODM",
+                    "constituency": "Seme",
+                    "county": "Siaya"
+                  },
+                  {
+                    "name": "Obara, Eve Akinyi",
+                    "party": "ODM",
+                    "constituency": "Kabondo Kasipul",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Odanga, Geoffrey Makokha",
+                    "party": "ODM",
+                    "constituency": "Matayos",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Odege, Tom Mboya",
+                    "party": "ODM",
+                    "constituency": "Nyatike",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Odhiambo, Elisha Ochieng",
+                    "party": "ODM",
+                    "constituency": "Gem",
+                    "county": "Siaya"
+                  },
+                  {
+                    "name": "Odhiambo, Millie Grace Akoth",
+                    "party": "ODM",
+                    "constituency": "Suba North",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Odoyo, Okello Jared",
+                    "party": "ODM",
+                    "constituency": "Nyando",
+                    "county": "Kisumu"
+                  },
+                  {
+                    "name": "Oduor, Christine Ombaka",
+                    "party": "ODM",
+                    "constituency": "Siaya (CWR)",
+                    "county": "Siaya"
+                  },
+                  {
+                    "name": "Ogolla, Gideon Ochanda",
+                    "party": "ODM",
+                    "constituency": "Bondo",
+                    "county": "Siaya"
+                  },
+                  {
+                    "name": "Oku, Edward Kaunya",
+                    "party": "ODM",
+                    "constituency": "Teso North",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Okuome, Andrew Adipo",
+                    "party": "ODM",
+                    "constituency": "Karachuonyo",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Oluoch, Anthony Tom",
+                    "party": "ODM",
+                    "constituency": "Mathare",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Omanyo, Catherine Nakhabi",
+                    "party": "ODM",
+                    "constituency": "Busia (CWR)",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Omondi, Caroli",
+                    "party": "ODM",
+                    "constituency": "Suba South",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Omwera, George Aladwa",
+                    "party": "ODM",
+                    "constituency": "Makadara",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Ongili, Babu Owino Paul",
+                    "party": "ODM",
+                    "constituency": "Embakasi East",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Orero, Peter Ochieng",
+                    "party": "ODM",
+                    "constituency": "Kibra",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Oron, Joshua Odongo",
+                    "party": "ODM",
+                    "constituency": "Kisumu Central",
+                    "county": "Kisumu"
+                  },
+                  {
+                    "name": "Osero, Patrick Kibagendi",
+                    "party": "ODM",
+                    "constituency": "Borabu",
+                    "county": "Nyamira"
+                  },
+                  {
+                    "name": "Osogo, Bensuda Joyce Atieno",
+                    "party": "ODM",
+                    "constituency": "Homa Bay (CWR)",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Oundo, Wilberforce Ojiambo",
+                    "party": "ODM",
+                    "constituency": "Funyula",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Owino, John Walter",
+                    "party": "ODM",
+                    "constituency": "Awendo",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Owino, Martin Peters",
+                    "party": "ODM",
+                    "constituency": "Ndhiwa",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Owuor, Joshua Aduma",
+                    "party": "ODM",
+                    "constituency": "Nyakach",
+                    "county": "Kisumu"
+                  },
+                  {
+                    "name": "Oyoo, James Onyango",
+                    "party": "ODM",
+                    "constituency": "Muhoroni",
+                    "county": "Kisumu"
+                  },
+                  {
+                    "name": "Oyula, Joseph H. Maero",
+                    "party": "ODM",
+                    "constituency": "Butula",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Passaris, Esther Muthomi",
+                    "party": "ODM",
+                    "constituency": "Nairobi City (CWR)",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Sakimba, Parashina Samuel",
+                    "party": "ODM",
+                    "constituency": "Kajiado South",
+                    "county": "Kajiado"
+                  },
+                  {
+                    "name": "Shimbwa, Omar Mwinyi",
+                    "party": "ODM",
+                    "constituency": "Changamwe",
+                    "county": "Mombasa"
+                  },
+                  {
+                    "name": "Shinali, Bernard Masaka",
+                    "party": "ODM",
+                    "constituency": "Ikolomani",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Wandayi, James Opiyo",
+                    "party": "ODM",
+                    "constituency": "Ugunja",
+                    "county": "Siaya",
+                    "notes": "Now CS Energy — seat vacated"
+                  },
+                  {
+                    "name": "Wangaya, Christopher Aseka",
+                    "party": "ODM",
+                    "constituency": "Khwisero",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Wangwe, Emmanuel",
+                    "party": "ODM",
+                    "constituency": "Navakholo",
+                    "county": "Kakamega"
+                  },
+                  {
+                    "name": "Wanjala, Raphael Sauti Bitta",
+                    "party": "ODM",
+                    "constituency": "Budalangi",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Were, Charles Ong'ondo",
+                    "party": "ODM",
+                    "constituency": "Kasipul",
+                    "county": "Homa Bay"
+                  },
+                  {
+                    "name": "Wetangula, Timothy Wanyonyi",
+                    "party": "ODM",
+                    "constituency": "Westlands",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Mupe, Anthony Kenga",
+                    "party": "PAA",
+                    "constituency": "Rabai",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Rai, Samuel Gonzi",
+                    "party": "PAA",
+                    "constituency": "Kinango",
+                    "county": "Kwale"
+                  },
+                  {
+                    "name": "Tungule, Charo Kenneth Kazungu",
+                    "party": "PAA",
+                    "constituency": "Ganze",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Kiunjuri, Festus Mwangi",
+                    "party": "TSP",
+                    "constituency": "Laikipia East",
+                    "county": "Laikipia"
+                  },
+                  {
+                    "name": "Nduyo, Susan Ngugi",
+                    "party": "TSP",
+                    "constituency": "Tharaka-Nithi (CWR)",
+                    "county": "Tharaka Nithi"
+                  },
+                  {
+                    "name": "Akuja, Protus Ewesit",
+                    "party": "UDA",
+                    "constituency": "Loima",
+                    "county": "Turkana"
+                  },
+                  {
+                    "name": "Alfah, Miruka Ondieki",
+                    "party": "UDA",
+                    "constituency": "Bomachoge Chache",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Ali, Abdisirat Khalif",
+                    "party": "UDA",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Bader, Salim Feisal",
+                    "party": "UDA",
+                    "constituency": "Msambweni",
+                    "county": "Kwale"
+                  },
+                  {
+                    "name": "Barre, Hussein Abdi",
+                    "party": "UDA",
+                    "constituency": "Tarbaj",
+                    "county": "Wajir"
+                  },
+                  {
+                    "name": "Barrow, Dekow Mohamed",
+                    "party": "UDA",
+                    "constituency": "Garissa Township",
+                    "county": "Garissa"
+                  },
+                  {
+                    "name": "Bartoo, Phylis Jepkemoi",
+                    "party": "UDA",
+                    "constituency": "Moiben",
+                    "county": "Uasin Gishu"
+                  },
+                  {
+                    "name": "Baya, Owen Yaa",
+                    "party": "UDA",
+                    "constituency": "Kilifi North",
+                    "county": "Kilifi"
+                  },
+                  {
+                    "name": "Biego, Paul Kibichy",
+                    "party": "UDA",
+                    "constituency": "Chesumei",
+                    "county": "Nandi"
+                  },
+                  {
+                    "name": "Bowen, David Kangogo",
+                    "party": "UDA",
+                    "constituency": "Marakwet East",
+                    "county": "Elgeyo-Marakwet"
+                  },
+                  {
+                    "name": "Chebor, Paul Kibet",
+                    "party": "UDA",
+                    "constituency": "Rongai",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Chege, John Kiragu",
+                    "party": "UDA",
+                    "constituency": "Limuru",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Chelule, Liza Chepkorir",
+                    "party": "UDA",
+                    "constituency": "Nakuru (CWR)",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Chepkonga, Kiprono Samwel",
+                    "party": "UDA",
+                    "constituency": "Ainabkoi",
+                    "county": "Uasin Gishu"
+                  },
+                  {
+                    "name": "Chepkorir, Linet",
+                    "party": "UDA",
+                    "constituency": "Bomet (CWR)",
+                    "county": "Bomet"
+                  },
+                  {
+                    "name": "Chepkwony, Charity Kathambi",
+                    "party": "UDA",
+                    "constituency": "Njoro",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Cherorot, Joseph Kimutai",
+                    "party": "UDA",
+                    "constituency": "Kipkelion East",
+                    "county": "Kericho"
+                  },
+                  {
+                    "name": "Chesebe, Fred Kapondi",
+                    "party": "UDA",
+                    "constituency": "Mt. Elgon",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Chumel, Samwel Moroto",
+                    "party": "UDA",
+                    "constituency": "Kapenguria",
+                    "county": "West Pokot"
+                  },
+                  {
+                    "name": "Double N, Pamela Njoki Njeru",
+                    "party": "UDA",
+                    "constituency": "Embu (CWR)",
+                    "county": "Embu"
+                  },
+                  {
+                    "name": "Emathe, Joseph Namuar",
+                    "party": "UDA",
+                    "constituency": "Turkana Central",
+                    "county": "Turkana"
+                  },
+                  {
+                    "name": "Gachagua, George N.",
+                    "party": "UDA",
+                    "constituency": "Ndaragwa",
+                    "county": "Nyandarua"
+                  },
+                  {
+                    "name": "Gachobe, Samuel Kinuthia",
+                    "party": "UDA",
+                    "constituency": "Subukia",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Gakuya, James Mwangi",
+                    "party": "UDA",
+                    "constituency": "Embakasi North",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Gathiru, Mejjadonk Benjamin",
+                    "party": "UDA",
+                    "constituency": "Embakasi Central",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Gichohi, Kaguchia John Philip",
+                    "party": "UDA",
+                    "constituency": "Mukurweini",
+                    "county": "Nyeri"
+                  },
+                  {
+                    "name": "Gichuki, Edwin Mugo",
+                    "party": "UDA",
+                    "constituency": "Mathioya",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Gikaria, David",
+                    "party": "UDA",
+                    "constituency": "Nakuru Town East",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Gitari, Joseph Gachoki",
+                    "party": "UDA",
+                    "constituency": "Kirinyaga Central",
+                    "county": "Kirinyaga"
+                  },
+                  {
+                    "name": "Gitau, Faith Wairimu",
+                    "party": "UDA",
+                    "constituency": "Nyandarua (CWR)",
+                    "county": "Nyandarua"
+                  },
+                  {
+                    "name": "Githinji, Robert Gichimu",
+                    "party": "UDA",
+                    "constituency": "Gichugu",
+                    "county": "Kirinyaga"
+                  },
+                  {
+                    "name": "GK, George Macharia Kariuki",
+                    "party": "UDA",
+                    "constituency": "Ndia",
+                    "county": "Kirinyaga"
+                  },
+                  {
+                    "name": "Ichung'wah, Anthony Kimani",
+                    "party": "UDA",
+                    "constituency": "Kikuyu",
+                    "county": "Kiambu",
+                    "notes": "Majority Leader, National Assembly"
+                  },
+                  {
+                    "name": "Ikiara, Dorothy Muthoni",
+                    "party": "UDA",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Iraya, Joseph Wainaina",
+                    "party": "UDA",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Jhanda Zaheer",
+                    "party": "UDA",
+                    "constituency": "Nyaribari Chache",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Kagiri, Jane Wangechi",
+                    "party": "UDA",
+                    "constituency": "Laikipia (CWR)",
+                    "county": "Laikipia"
+                  },
+                  {
+                    "name": "Kagombe, Gabriel Gathuka",
+                    "party": "UDA",
+                    "constituency": "Gatundu South",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Kahangara, Joseph Mburu",
+                    "party": "UDA",
+                    "constituency": "Lari",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Kahugu, Eric Meangi",
+                    "party": "UDA",
+                    "constituency": "Mathira",
+                    "county": "Nyeri"
+                  },
+                  {
+                    "name": "Kailema, Elizabeth Karambu",
+                    "party": "UDA",
+                    "constituency": "Meru (CWR)",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Kamuren, Charles",
+                    "party": "UDA",
+                    "constituency": "Baringo South",
+                    "county": "Baringo"
+                  },
+                  {
+                    "name": "Kandie, Joshua Chepyegon",
+                    "party": "UDA",
+                    "constituency": "Baringo Central",
+                    "county": "Baringo"
+                  },
+                  {
+                    "name": "Karani, Stephen Wachira",
+                    "party": "UDA",
+                    "constituency": "Laikipia West",
+                    "county": "Laikipia"
+                  },
+                  {
+                    "name": "Karemba, Eric Muchangi Njiru",
+                    "party": "UDA",
+                    "constituency": "Runyenjes",
+                    "county": "Embu"
+                  },
+                  {
+                    "name": "Kemei, Beatrice Chepng'eno",
+                    "party": "UDA",
+                    "constituency": "Kericho (CWR)",
+                    "county": "Kericho"
+                  },
+                  {
+                    "name": "Kemei, Justice Kipsang",
+                    "party": "UDA",
+                    "constituency": "Sigowet/Soin",
+                    "county": "Kericho"
+                  },
+                  {
+                    "name": "Kemero, Maisori Marwa Kitayama",
+                    "party": "UDA",
+                    "constituency": "Kuria East",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Kihara, Jayne Wanjiru Njeru",
+                    "party": "UDA",
+                    "constituency": "Naivasha",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Kihungi, Peter Irungu",
+                    "party": "UDA",
+                    "constituency": "Kangema",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Kilel, Richard Cheruiyot",
+                    "party": "UDA",
+                    "constituency": "Bomet Central",
+                    "county": "Bomet"
+                  },
+                  {
+                    "name": "Kimani, Francis Kuria",
+                    "party": "UDA",
+                    "constituency": "Molo",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Kingara, Simon Ng'ang'a",
+                    "party": "UDA",
+                    "constituency": "Ruiru",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Kipbiwot, Julius Melly",
+                    "party": "UDA",
+                    "constituency": "Tinderet",
+                    "county": "Nandi"
+                  },
+                  {
+                    "name": "Kipgnor, Reuben Kiborek",
+                    "party": "UDA",
+                    "constituency": "Mogotio",
+                    "county": "Baringo"
+                  },
+                  {
+                    "name": "Kipkoech, Gideon Kimaiyo",
+                    "party": "UDA",
+                    "constituency": "Keiyo South",
+                    "county": "Elgeyo-Marakwet"
+                  },
+                  {
+                    "name": "Kipkoros, Joseph Makilap",
+                    "party": "UDA",
+                    "constituency": "Baringo North",
+                    "county": "Baringo"
+                  },
+                  {
+                    "name": "Kiplagat, David",
+                    "party": "UDA",
+                    "constituency": "Soy",
+                    "county": "Uasin Gishu"
+                  },
+                  {
+                    "name": "Kiprono, Mutai Alfred",
+                    "party": "UDA",
+                    "constituency": "Kuresoi North",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Kipyegon, Johana Ng'eno",
+                    "party": "UDA",
+                    "constituency": "Emurua Dikirr",
+                    "county": "Narok"
+                  },
+                  {
+                    "name": "Kirima, Moses Nguchine",
+                    "party": "UDA",
+                    "constituency": "Central Imenti",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Kirwa, Abraham Kipsang",
+                    "party": "UDA",
+                    "constituency": "Mosop",
+                    "county": "Nandi"
+                  },
+                  {
+                    "name": "Kitany, Marianne Jebet",
+                    "party": "UDA",
+                    "constituency": "Aldai",
+                    "county": "Nandi"
+                  },
+                  {
+                    "name": "Kitur, Bernard Kibor",
+                    "party": "UDA",
+                    "constituency": "Nandi Hills",
+                    "county": "Nandi"
+                  },
+                  {
+                    "name": "Koech, Nelson",
+                    "party": "UDA",
+                    "constituency": "Belgut",
+                    "county": "Kericho"
+                  },
+                  {
+                    "name": "Komingoi, Kibet Kirui",
+                    "party": "UDA",
+                    "constituency": "Bureti",
+                    "county": "Kericho"
+                  },
+                  {
+                    "name": "Korir, Adams Kipsanai",
+                    "party": "UDA",
+                    "constituency": "Keiyo North",
+                    "county": "Elgeyo-Marakwet"
+                  },
+                  {
+                    "name": "Kosgei, Hilary Kiplangat",
+                    "party": "UDA",
+                    "constituency": "Kipkelion West",
+                    "county": "Kericho"
+                  },
+                  {
+                    "name": "Kosgei, Jackson Kipkemoi",
+                    "party": "UDA",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Langat, Benjamin Kipkirui",
+                    "party": "UDA",
+                    "constituency": "Ainamoi",
+                    "county": "Kericho"
+                  },
+                  {
+                    "name": "Lelmengit, Josses Kiptoo Kosgey",
+                    "party": "UDA",
+                    "constituency": "Emgwen",
+                    "county": "Nandi"
+                  },
+                  {
+                    "name": "Lemanken, Aramat",
+                    "party": "UDA",
+                    "constituency": "Narok East",
+                    "county": "Narok"
+                  },
+                  {
+                    "name": "Lenguris, Pauline",
+                    "party": "UDA",
+                    "constituency": "Samburu (CWR)",
+                    "county": "Samburu"
+                  },
+                  {
+                    "name": "Letipila, Dominic Eli",
+                    "party": "UDA",
+                    "constituency": "Samburu North",
+                    "county": "Samburu"
+                  },
+                  {
+                    "name": "Lochakapong, Peter",
+                    "party": "UDA",
+                    "constituency": "Sigor",
+                    "county": "West Pokot"
+                  },
+                  {
+                    "name": "Logova, Sloya Clement",
+                    "party": "UDA",
+                    "constituency": "Sabatia",
+                    "county": "Vihiga"
+                  },
+                  {
+                    "name": "M'Anaiba, Julius Taitumu",
+                    "party": "UDA",
+                    "constituency": "Igembe North",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Maina, Betty Njeri",
+                    "party": "UDA",
+                    "constituency": "Murang'a (CWR)",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Maina, Jane Njeri",
+                    "party": "UDA",
+                    "constituency": "Kirinyaga (CWR)",
+                    "county": "Kirinyaga"
+                  },
+                  {
+                    "name": "Maingi, Mary",
+                    "party": "UDA",
+                    "constituency": "Mwea",
+                    "county": "Kirinyaga"
+                  },
+                  {
+                    "name": "Mathenge, Duncan Maina",
+                    "party": "UDA",
+                    "constituency": "Nyeri Town",
+                    "county": "Nyeri"
+                  },
+                  {
+                    "name": "Mbai, Nimrod Mbithuka",
+                    "party": "UDA",
+                    "constituency": "Kitui East",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Mbiuki, Japhet Miriti Kareke",
+                    "party": "UDA",
+                    "constituency": "Maara",
+                    "county": "Tharaka Nithi"
+                  },
+                  {
+                    "name": "Mizighi, Lydia Haika Mnene",
+                    "party": "UDA",
+                    "constituency": "Taita Taveta (CWR)",
+                    "county": "Taita-Taveta"
+                  },
+                  {
+                    "name": "Mohamed, Mohamed Ali",
+                    "party": "UDA",
+                    "constituency": "Nyali",
+                    "county": "Mombasa"
+                  },
+                  {
+                    "name": "Mokaya, Nyakundi Japheth",
+                    "party": "UDA",
+                    "constituency": "Kitutu Chache North",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Muchira, Michael Mwangi",
+                    "party": "UDA",
+                    "constituency": "Ol Jorok",
+                    "county": "Nyandarua"
+                  },
+                  {
+                    "name": "Muge, Cynthia Jepkosgei",
+                    "party": "UDA",
+                    "constituency": "Nandi (CWR)",
+                    "county": "Nandi"
+                  },
+                  {
+                    "name": "Muhia, Wanjiku",
+                    "party": "UDA",
+                    "constituency": "Kipipiri",
+                    "county": "Nyandarua"
+                  },
+                  {
+                    "name": "Mukunji, John Gitonga Mwaniki",
+                    "party": "UDA",
+                    "constituency": "Manyatta",
+                    "county": "Embu"
+                  },
+                  {
+                    "name": "Munyoro, Joseph Kamau",
+                    "party": "UDA",
+                    "constituency": "Kigumo",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Muratha, Anne Wanjiku Mugo",
+                    "party": "UDA",
+                    "constituency": "Kiambu (CWR)",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Muriu, Wakili Edward",
+                    "party": "UDA",
+                    "constituency": "Gatanga",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Murugara, George Gitonga",
+                    "party": "UDA",
+                    "constituency": "Tharaka",
+                    "county": "Tharaka Nithi"
+                  },
+                  {
+                    "name": "Murwithania, Rindikiri Mugambi",
+                    "party": "UDA",
+                    "constituency": "Buuri",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Musau, Vincent Musyoka",
+                    "party": "UDA",
+                    "constituency": "Mwala",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Mutua, Didmus Wekesa Barasa",
+                    "party": "UDA",
+                    "constituency": "Kimilili",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Mutunga, John Kanyuithia",
+                    "party": "UDA",
+                    "constituency": "Tigania West",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Mwafrika, Augustine Kamande",
+                    "party": "UDA",
+                    "constituency": "Royasambu",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Mwangi, Geoffrey Wandeto",
+                    "party": "UDA",
+                    "constituency": "Tetu",
+                    "county": "Nyeri"
+                  },
+                  {
+                    "name": "Mwangi, Teresia Wanjiru",
+                    "party": "UDA",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Mwiring, John Paul",
+                    "party": "UDA",
+                    "constituency": "Igembe South",
+                    "county": "Meru"
+                  },
+                  {
+                    "name": "Nanok, Daniel Epuyo",
+                    "party": "UDA",
+                    "constituency": "Turkana West",
+                    "county": "Turkana"
+                  },
+                  {
+                    "name": "Ndung'u, George Koimburi",
+                    "party": "UDA",
+                    "constituency": "Juja",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Ng'ang'a, Alice Wambui",
+                    "party": "UDA",
+                    "constituency": "Thika Town",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Ngitit, Cecilia Asinyen",
+                    "party": "UDA",
+                    "constituency": "Turkana (CWR)",
+                    "county": "Turkana"
+                  },
+                  {
+                    "name": "Nguro, Onesmus Ngogoyo",
+                    "party": "UDA",
+                    "constituency": "Kajiado North",
+                    "county": "Kajiado"
+                  },
+                  {
+                    "name": "Njoroge, Mary Wamaua Waithira",
+                    "party": "UDA",
+                    "constituency": "Maragwa",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Njuguna, Chege",
+                    "party": "UDA",
+                    "constituency": "Kandara",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Ntwiga, Patrick Munene",
+                    "party": "UDA",
+                    "constituency": "Chuka/Igambang'ombe",
+                    "county": "Tharaka Nithi"
+                  },
+                  {
+                    "name": "Nyamoko, Joash",
+                    "party": "UDA",
+                    "constituency": "North Mugirango",
+                    "county": "Nyamira"
+                  },
+                  {
+                    "name": "Nyoro, Samson Ndindi",
+                    "party": "UDA",
+                    "constituency": "Kiharu",
+                    "county": "Muranga"
+                  },
+                  {
+                    "name": "Onyiego, Silvanus Osoro",
+                    "party": "UDA",
+                    "constituency": "South Mugirango",
+                    "county": "Nyamira"
+                  },
+                  {
+                    "name": "Otucho, Mary Emaase",
+                    "party": "UDA",
+                    "constituency": "Teso South",
+                    "county": "Busia"
+                  },
+                  {
+                    "name": "Pukose, Robert (Dr.)",
+                    "party": "UDA",
+                    "constituency": "Endebess",
+                    "county": "Trans-Nzoia"
+                  },
+                  {
+                    "name": "Raso, Dido Ali",
+                    "party": "UDA",
+                    "constituency": "Saku",
+                    "county": "Marsabit"
+                  },
+                  {
+                    "name": "Risa, Sunkuiya George",
+                    "party": "UDA",
+                    "constituency": "Kajiado West",
+                    "county": "Kajiado"
+                  },
+                  {
+                    "name": "Robi, Mathias Nyamabe",
+                    "party": "UDA",
+                    "constituency": "Kuria West",
+                    "county": "Migori"
+                  },
+                  {
+                    "name": "Rutto, Julius Kipletting",
+                    "party": "UDA",
+                    "constituency": "Kesses",
+                    "county": "Uasin Gishu"
+                  },
+                  {
+                    "name": "Saney, Ibrahim Abdi",
+                    "party": "UDA",
+                    "constituency": "Wajir North",
+                    "county": "Wajir"
+                  },
+                  {
+                    "name": "Sankaire, Leah Sopiato",
+                    "party": "UDA",
+                    "constituency": "Kajiado (CWR)",
+                    "county": "Kajiado"
+                  },
+                  {
+                    "name": "Sergon, Flowrence Jematiah",
+                    "party": "UDA",
+                    "constituency": "Baringo (CWR)",
+                    "county": "Baringo"
+                  },
+                  {
+                    "name": "Shollei, Gladys Jepkosgei Boss",
+                    "party": "UDA",
+                    "constituency": "Uasin Gishu (CWR)",
+                    "county": "Uasin Gishu",
+                    "notes": "Deputy Speaker, National Assembly"
+                  },
+                  {
+                    "name": "Sigei, Francis Kipyegon arap",
+                    "party": "UDA",
+                    "constituency": "Sotik",
+                    "county": "Bomet"
+                  },
+                  {
+                    "name": "Sirma, Musa Cherutich",
+                    "party": "UDA",
+                    "constituency": "Eldama Ravine",
+                    "county": "Baringo"
+                  },
+                  {
+                    "name": "Sitati, Daniel Wanyama",
+                    "party": "UDA",
+                    "constituency": "Webuye West",
+                    "county": "Bungoma"
+                  },
+                  {
+                    "name": "Sitienei, Janet Jepkemboi",
+                    "party": "UDA",
+                    "constituency": "Turbo",
+                    "county": "Uasin Gishu"
+                  },
+                  {
+                    "name": "Siyoi, Lillian Chebet",
+                    "party": "UDA",
+                    "constituency": "Trans Nzoia (CWR)",
+                    "county": "Trans-Nzoia"
+                  },
+                  {
+                    "name": "Sudi, Oscar Kipchumba",
+                    "party": "UDA",
+                    "constituency": "Kapseret",
+                    "county": "Uasin Gishu"
+                  },
+                  {
+                    "name": "Tongoyo, Gabriel Koshal",
+                    "party": "UDA",
+                    "constituency": "Narok West",
+                    "county": "Narok"
+                  },
+                  {
+                    "name": "Tonkei, Rebecca Noonaishi",
+                    "party": "UDA",
+                    "constituency": "Narok (CWR)",
+                    "county": "Narok"
+                  },
+                  {
+                    "name": "Tonui, Joseph Kipkosgei",
+                    "party": "UDA",
+                    "constituency": "Kuresoi South",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Wachira, Rahab Mukami",
+                    "party": "UDA",
+                    "constituency": "Nyeri (CWR)",
+                    "county": "Nyeri"
+                  },
+                  {
+                    "name": "Wainaina, Antony Njoroge",
+                    "party": "UDA",
+                    "constituency": "Kieni",
+                    "county": "Nyeri"
+                  },
+                  {
+                    "name": "Wainaina, Michael Wambugu",
+                    "party": "UDA",
+                    "constituency": "Othaya",
+                    "county": "Nyeri"
+                  },
+                  {
+                    "name": "Waithaka, John Machua",
+                    "party": "UDA",
+                    "constituency": "Kiambu",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Wamacukuru, James Githua Kamau",
+                    "party": "UDA",
+                    "constituency": "Kabete",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Wamuchomba, Gathoni",
+                    "party": "UDA",
+                    "constituency": "Githunguri",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "John Njuguna",
+                    "party": "UDA",
+                    "constituency": "Kiambaa",
+                    "county": "Kiambu"
+                  },
+                  {
+                    "name": "Wanjira, Martha Wangari",
+                    "party": "UDA",
+                    "constituency": "Gilgil",
+                    "county": "Nakuru"
+                  },
+                  {
+                    "name": "Waqo, Naomi Jillo",
+                    "party": "UDA",
+                    "constituency": "Marsabit (CWR)",
+                    "county": "Marsabit"
+                  },
+                  {
+                    "name": "Waweru, John Kiarie",
+                    "party": "UDA",
+                    "constituency": "Dagoretti South",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Yakub, Farah Salah",
+                    "party": "UDA",
+                    "constituency": "Fafi",
+                    "county": "Garissa"
+                  },
+                  {
+                    "name": "Yegon, Brighton Leonard",
+                    "party": "UDA",
+                    "constituency": "Konoin",
+                    "county": "Bomet"
+                  },
+                  {
+                    "name": "Yegon, Richard Kipkemoi",
+                    "party": "UDA",
+                    "constituency": "Bomet East",
+                    "county": "Bomet"
+                  },
+                  {
+                    "name": "Abdullahi, Bashir Sheikh",
+                    "party": "UDM",
+                    "constituency": "Mandera North",
+                    "county": "Mandera"
+                  },
+                  {
+                    "name": "Chiforomodo, Mangale Munga",
+                    "party": "UDM",
+                    "constituency": "Lungalunga",
+                    "county": "Kwale"
+                  },
+                  {
+                    "name": "Haro, Abdul Ebrahim",
+                    "party": "UDM",
+                    "constituency": "Mandera South",
+                    "county": "Mandera"
+                  },
+                  {
+                    "name": "VACANT",
+                    "party": "UDM",
+                    "constituency": "Banissa",
+                    "county": "Mandera",
+                    "notes": "Seat vacant as at May 2023"
+                  },
+                  {
+                    "name": "Harun, Suleka Hulbale",
+                    "party": "UDM",
+                    "constituency": "Nominated",
+                    "county": null
+                  },
+                  {
+                    "name": "Lekuton, Joseph",
+                    "party": "UDM",
+                    "constituency": "Laisamis",
+                    "county": "Marsabit"
+                  },
+                  {
+                    "name": "Sheikh, Umul Ker Kassim",
+                    "party": "UDM",
+                    "constituency": "Mandera (CWR)",
+                    "county": "Mandera"
+                  },
+                  {
+                    "name": "Yussuf, Adan Haji",
+                    "party": "UDM",
+                    "constituency": "Mandera West",
+                    "county": "Mandera"
+                  },
+                  {
+                    "name": "Onchoke, Charles",
+                    "party": "UPA",
+                    "constituency": "Bonchari",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Jaldesa, Guyo Waqo",
+                    "party": "UPIA",
+                    "constituency": "Moyale",
+                    "county": "Marsabit"
+                  },
+                  {
+                    "name": "Yakub, Adow Kuno",
+                    "party": "UPIA",
+                    "constituency": "Bura",
+                    "county": "Tana River"
+                  },
+                  {
+                    "name": "Abdi, Khamis Chome",
+                    "party": "WDM-K",
+                    "constituency": "Voi",
+                    "county": "Taita-Taveta"
+                  },
+                  {
+                    "name": "Aburi, Donya Dorice",
+                    "party": "WDM-K",
+                    "constituency": "Kisii (CWR)",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Basil, Robert Ngui",
+                    "party": "WDM-K",
+                    "constituency": "Yatta",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Bwire, John Okano",
+                    "party": "WDM-K",
+                    "constituency": "Taveta",
+                    "county": "Taita-Taveta"
+                  },
+                  {
+                    "name": "Kamene, Joyce",
+                    "party": "WDM-K",
+                    "constituency": "Machakos (CWR)",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Kasalu, Irene Muthoni",
+                    "party": "WDM-K",
+                    "constituency": "Kitui (CWR)",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Kiamba, Suzanne Ndunge",
+                    "party": "WDM-K",
+                    "constituency": "Makueni",
+                    "county": "Makueni"
+                  },
+                  {
+                    "name": "Kimilu, Joshua Kivinda",
+                    "party": "WDM-K",
+                    "constituency": "Kaiti",
+                    "county": "Makueni"
+                  },
+                  {
+                    "name": "King'ola, Patrick Makau",
+                    "party": "WDM-K",
+                    "constituency": "Mavoko",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Maalim, Farah",
+                    "party": "WDM-K",
+                    "constituency": "Dadaab",
+                    "county": "Garissa"
+                  },
+                  {
+                    "name": "Mawathe, Julius Musili",
+                    "party": "WDM-K",
+                    "constituency": "Embakasi South",
+                    "county": "Nairobi"
+                  },
+                  {
+                    "name": "Mbalu, Jessica Nduku Kiko",
+                    "party": "WDM-K",
+                    "constituency": "Kibwezi East",
+                    "county": "Makueni"
+                  },
+                  {
+                    "name": "Mboni, David Mwalika",
+                    "party": "WDM-K",
+                    "constituency": "Kitui Rural",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Mbui, Robert",
+                    "party": "WDM-K",
+                    "constituency": "Kathiani",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Momanyi, Innocent Obiri",
+                    "party": "WDM-K",
+                    "constituency": "Bomachoge Borabu",
+                    "county": "Kisii"
+                  },
+                  {
+                    "name": "Mule, Stephen Mutinda",
+                    "party": "WDM-K",
+                    "constituency": "Matungulu",
+                    "county": "Machakos"
+                  },
+                  {
+                    "name": "Mulu, Makali Benson",
+                    "party": "WDM-K",
+                    "constituency": "Kitui Central",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Mulyungi, Gideon Mutemi",
+                    "party": "WDM-K",
+                    "constituency": "Mwingi Central",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Mumo, Rose Museo",
+                    "party": "WDM-K",
+                    "constituency": "Makueni (CWR)",
+                    "county": "Makueni"
+                  },
+                  {
+                    "name": "Mwakuwona, Danson Mwashako",
+                    "party": "WDM-K",
+                    "constituency": "Wundanyi",
+                    "county": "Taita-Taveta"
+                  },
+                  {
+                    "name": "Nguna, Charles Ngusya",
+                    "party": "WDM-K",
+                    "constituency": "Mwingi West",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Nyenze, Edith Vethi",
+                    "party": "WDM-K",
+                    "constituency": "Kitui West",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Nzambia, Thudeeus Kithua",
+                    "party": "WDM-K",
+                    "constituency": "Kilome",
+                    "county": "Makueni"
+                  },
+                  {
+                    "name": "Nzengu, Paul Musyimi",
+                    "party": "WDM-K",
+                    "constituency": "Mwingi North",
+                    "county": "Kitui"
+                  },
+                  {
+                    "name": "Nzioka, Erastus Kivasu",
+                    "party": "WDM-K",
+                    "constituency": "Mbooni",
+                    "county": "Makueni"
+                  },
+                  {
+                    "name": "Twalib, Abubakar Ahmed",
+                    "party": "WDM-K",
+                    "constituency": "Nominated",
+                    "county": null
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "senate",
+            "position": "Senate",
+            "level": "National — Legislature (Upper House)",
+            "arm": "legislature",
+            "current_officeholder": "Speaker: Amason Jeffah Kingi, E.G.H.",
+            "party": "ANC (Speaker is non-partisan in office)",
+            "since": "September 2022",
+            "salary_ksh_monthly_gross": 1208362,
+            "salary_source": "SRC Gazette Notice No. 10350 (9 Aug 2023) — Speaker salary",
+            "appointment_method": "Speaker elected by Senators; 47 elected Senators; 20 nominated women; 2 youth; 2 PWD",
+            "constitutional_basis": "Art. 96–104, Constitution of Kenya 2010",
+            "term": "5 years",
+            "notes": "67 total senators + Speaker Kingi (non-voting). Former Governor of Kilifi County.",
+            "children": [
+              {
+                "id": "dsp_senate",
+                "position": "Deputy Speaker — Senate",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Kathuri Murungi",
+                "party": "UDA",
+                "county": "Meru",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Elected by Senators",
+                "constitutional_basis": "Art. 106",
+                "term": null,
+                "notes": "Also Senator for Meru County",
+                "children": []
+              },
+              {
+                "id": "majority_leader_senate",
+                "position": "Majority Leader — Senate",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Aaron Kipkirui Cheruiyot",
+                "party": "UDA",
+                "county": "Kericho",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Nominated by majority coalition",
+                "constitutional_basis": "Senate Standing Orders",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "minority_leader_senate",
+                "position": "Minority Leader — Senate",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Edwin Sifuna",
+                "party": "ODM",
+                "county": "Nairobi",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Nominated by minority coalition",
+                "constitutional_basis": "Senate Standing Orders",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "clerk_senate",
+                "position": "Clerk — Senate",
+                "level": "National",
+                "arm": "legislature",
+                "current_officeholder": "Jeremiah Nyegenye",
+                "party": null,
+                "since": null,
+                "salary_ksh_monthly_gross": null,
+                "salary_source": null,
+                "appointment_method": "Parliamentary Service Commission",
+                "constitutional_basis": "Art. 127",
+                "term": null,
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "senators",
+                "position": "Senators — All 47 Elected County Senators",
+                "level": "National — County Representation",
+                "arm": "legislature",
+                "current_officeholder": "See members array",
+                "party": "Various",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 739600,
+                "salary_breakdown": {
+                  "basic": 443760,
+                  "house_allowance": 150000,
+                  "market_adjustment": 145840
+                },
+                "salary_source": "SRC Gazette Notice No. 10346 (9 Aug 2023)",
+                "appointment_method": "Popular direct election — one per county (Art. 98)",
+                "constitutional_basis": "Art. 96–99, Constitution of Kenya 2010",
+                "term": "5 years (2022–2027)",
+                "notes": "47 elected + 16 nominated women + 2 youth + 2 PWD = 67 total",
+                "members": [
+                  {
+                    "county_code": 1,
+                    "county": "Mombasa",
+                    "senator": "Mohamed Faki Mwinyihaji",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 2,
+                    "county": "Kwale",
+                    "senator": "Issa Juma Boy",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 3,
+                    "county": "Kilifi",
+                    "senator": "Stewart Madzayo",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 4,
+                    "county": "Tana River",
+                    "senator": "Danson Mungatana",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 5,
+                    "county": "Lamu",
+                    "senator": "Joseph Githuku",
+                    "party": "JP"
+                  },
+                  {
+                    "county_code": 6,
+                    "county": "Taita-Taveta",
+                    "senator": "Johnes Mwaruma",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 7,
+                    "county": "Garissa",
+                    "senator": "Abdulkadir Mohamed Haji",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 8,
+                    "county": "Wajir",
+                    "senator": "Abass Sheikh Mohammed",
+                    "party": "UDM"
+                  },
+                  {
+                    "county_code": 9,
+                    "county": "Mandera",
+                    "senator": "Ali Roba",
+                    "party": "UDM"
+                  },
+                  {
+                    "county_code": 10,
+                    "county": "Marsabit",
+                    "senator": "Mohamed Said Chute",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 11,
+                    "county": "Isiolo",
+                    "senator": "Fatuma Dullo Adan",
+                    "party": "JP"
+                  },
+                  {
+                    "county_code": 12,
+                    "county": "Meru",
+                    "senator": "Kathuri Murungi",
+                    "party": "UDA",
+                    "notes": "Also Deputy Speaker of Senate"
+                  },
+                  {
+                    "county_code": 13,
+                    "county": "Tharaka Nithi",
+                    "senator": "Gataya Mwenda",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 14,
+                    "county": "Embu",
+                    "senator": "Alexander Mundigi",
+                    "party": "DP"
+                  },
+                  {
+                    "county_code": 15,
+                    "county": "Kitui",
+                    "senator": "Enoch Kiio Wambua",
+                    "party": "Wiper"
+                  },
+                  {
+                    "county_code": 16,
+                    "county": "Machakos",
+                    "senator": "Agnes Kavindu Muthama",
+                    "party": "Wiper"
+                  },
+                  {
+                    "county_code": 17,
+                    "county": "Makueni",
+                    "senator": "Dan Maanzo",
+                    "party": "Wiper"
+                  },
+                  {
+                    "county_code": 18,
+                    "county": "Nyandarua",
+                    "senator": "John Methu",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 19,
+                    "county": "Nyeri",
+                    "senator": "William Wahome",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 20,
+                    "county": "Kirinyaga",
+                    "senator": "Kamau Murango",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 21,
+                    "county": "Muranga",
+                    "senator": "Joel Nyutu",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 22,
+                    "county": "Kiambu",
+                    "senator": "Karungo Thangwa",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 23,
+                    "county": "Turkana",
+                    "senator": "James Lomenen",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 24,
+                    "county": "West Pokot",
+                    "senator": "Julius Murgor",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 25,
+                    "county": "Samburu",
+                    "senator": "Steve Ltumbesi Lelegwe",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 26,
+                    "county": "Trans-Nzoia",
+                    "senator": "Allan Chesang",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 27,
+                    "county": "Uasin Gishu",
+                    "senator": "Jackson Mandago",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 28,
+                    "county": "Elgeyo-Marakwet",
+                    "senator": "William Kipkemoi Kisang",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 29,
+                    "county": "Nandi",
+                    "senator": "Samson Cherargei",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 30,
+                    "county": "Baringo",
+                    "senator": "William Cheptumo",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 31,
+                    "county": "Laikipia",
+                    "senator": "John Kinyua Nderitu",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 32,
+                    "county": "Nakuru",
+                    "senator": "Tabitha Karanja",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 33,
+                    "county": "Narok",
+                    "senator": "Ledama Ole Kina",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 34,
+                    "county": "Kajiado",
+                    "senator": "Samuel Kanar",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 35,
+                    "county": "Kericho",
+                    "senator": "Aaron Kipkirui Cheruiyot",
+                    "party": "UDA",
+                    "notes": "Senate Majority Leader"
+                  },
+                  {
+                    "county_code": 36,
+                    "county": "Bomet",
+                    "senator": "Hillary Sigei",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 37,
+                    "county": "Kakamega",
+                    "senator": "Boni Khalwale",
+                    "party": "UDA"
+                  },
+                  {
+                    "county_code": 38,
+                    "county": "Vihiga",
+                    "senator": "Godfrey Osotsi",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 39,
+                    "county": "Bungoma",
+                    "senator": "Wafula Wakoli",
+                    "party": "FORD-Kenya"
+                  },
+                  {
+                    "county_code": 40,
+                    "county": "Busia",
+                    "senator": "Okiyah Omtatah",
+                    "party": "NRA"
+                  },
+                  {
+                    "county_code": 41,
+                    "county": "Siaya",
+                    "senator": "Oburu Oginga",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 42,
+                    "county": "Kisumu",
+                    "senator": "Tom Ojienda",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 43,
+                    "county": "Homa Bay",
+                    "senator": "Moses Otieno Kajwang'",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 44,
+                    "county": "Migori",
+                    "senator": "Eddy Oketch",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 45,
+                    "county": "Kisii",
+                    "senator": "Richard Onyoka",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 46,
+                    "county": "Nyamira",
+                    "senator": "Erick Okongo Mogeni",
+                    "party": "ODM"
+                  },
+                  {
+                    "county_code": 47,
+                    "county": "Nairobi",
+                    "senator": "Edwin Sifuna",
+                    "party": "ODM",
+                    "notes": "Senate Minority Leader"
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "judiciary",
+        "position": "The Judiciary",
+        "level": "National",
+        "arm": "judiciary",
+        "current_officeholder": "Headed by Chief Justice Martha Koome",
+        "party": null,
+        "since": null,
+        "salary_ksh_monthly_gross": null,
+        "salary_source": null,
+        "appointment_method": "Independent — Judicial Service Commission (JSC) oversees appointments; President appoints on JSC recommendation with NA approval",
+        "constitutional_basis": "Chapter 10 (Art. 159–173), Constitution of Kenya 2010",
+        "term": null,
+        "notes": "Fully independent of the Executive and Legislature",
+        "children": [
+          {
+            "id": "chief_justice",
+            "position": "Chief Justice and President of the Supreme Court",
+            "level": "National — Judiciary",
+            "arm": "judiciary",
+            "current_officeholder": "Lady Justice Martha Karambu Koome",
+            "party": null,
+            "since": "May 2021",
+            "salary_ksh_monthly_gross": 1403942,
+            "salary_source": "SRC Third Remuneration Review Cycle, FY 2024/25 (consolidated pay)",
+            "appointment_method": "JSC competitive public interviews → National Assembly approval → Presidential appointment (Art. 166)",
+            "constitutional_basis": "Art. 163–166, Constitution of Kenya 2010",
+            "term": "10 years or until age 70, whichever is earlier",
+            "notes": "First woman Chief Justice in Kenya's history; also chairs JSC",
+            "children": [
+              {
+                "id": "dcj",
+                "position": "Deputy Chief Justice and Deputy President of the Supreme Court",
+                "level": "National — Judiciary",
+                "arm": "judiciary",
+                "current_officeholder": "Lady Justice Philomena Mbete Mwilu",
+                "party": null,
+                "since": "2016",
+                "salary_ksh_monthly_gross": 1304185,
+                "salary_source": "SRC Third Remuneration Review Cycle, FY 2024/25",
+                "appointment_method": "JSC competitive interviews → NA approval → Presidential appointment (Art. 166)",
+                "constitutional_basis": "Art. 163–166, Constitution of Kenya 2010",
+                "term": "10 years or until age 70",
+                "notes": "Member of JSC ex-officio",
+                "children": []
+              },
+              {
+                "id": "sc_ibrahim",
+                "position": "Justice of the Supreme Court",
+                "level": "National — Judiciary",
+                "arm": "judiciary",
+                "current_officeholder": "Justice Mohammed Khadhar Ibrahim",
+                "party": null,
+                "since": "2012 (reappointed)",
+                "salary_ksh_monthly_gross": 1150000,
+                "salary_source": "SRC Judiciary schedule, FY 2024/25 (estimated)",
+                "appointment_method": "JSC recommendation → NA approval → Presidential appointment (Art. 166)",
+                "constitutional_basis": "Art. 163, Constitution of Kenya 2010",
+                "term": "10 years or until age 70",
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "sc_wanjala",
+                "position": "Justice of the Supreme Court",
+                "level": "National — Judiciary",
+                "arm": "judiciary",
+                "current_officeholder": "Justice Smokin Charles Wanjala",
+                "party": null,
+                "since": "2012 (reappointed)",
+                "salary_ksh_monthly_gross": 1150000,
+                "salary_source": "SRC Judiciary schedule, FY 2024/25 (estimated)",
+                "appointment_method": "JSC recommendation → NA approval → Presidential appointment",
+                "constitutional_basis": "Art. 163",
+                "term": "10 years or until age 70",
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "sc_ndungu",
+                "position": "Justice of the Supreme Court",
+                "level": "National — Judiciary",
+                "arm": "judiciary",
+                "current_officeholder": "Justice Njoki Ndung'u",
+                "party": null,
+                "since": "2012 (reappointed)",
+                "salary_ksh_monthly_gross": 1150000,
+                "salary_source": "SRC Judiciary schedule, FY 2024/25 (estimated)",
+                "appointment_method": "JSC recommendation → NA approval → Presidential appointment",
+                "constitutional_basis": "Art. 163",
+                "term": "10 years or until age 70",
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "sc_lenaola",
+                "position": "Justice of the Supreme Court",
+                "level": "National — Judiciary",
+                "arm": "judiciary",
+                "current_officeholder": "Justice Isaac Lenaola",
+                "party": null,
+                "since": "2016",
+                "salary_ksh_monthly_gross": 1150000,
+                "salary_source": "SRC Judiciary schedule, FY 2024/25 (estimated)",
+                "appointment_method": "JSC recommendation → NA approval → Presidential appointment",
+                "constitutional_basis": "Art. 163",
+                "term": "10 years or until age 70",
+                "notes": null,
+                "children": []
+              },
+              {
+                "id": "sc_ouko",
+                "position": "Justice of the Supreme Court",
+                "level": "National — Judiciary",
+                "arm": "judiciary",
+                "current_officeholder": "Justice William Ouko",
+                "party": null,
+                "since": "2021",
+                "salary_ksh_monthly_gross": 1150000,
+                "salary_source": "SRC Judiciary schedule, FY 2024/25 (estimated)",
+                "appointment_method": "JSC recommendation → NA approval → Presidential appointment",
+                "constitutional_basis": "Art. 163",
+                "term": "10 years or until age 70",
+                "notes": "Former President of Court of Appeal",
+                "children": []
+              },
+              {
+                "id": "court_of_appeal",
+                "position": "Court of Appeal (~50 Justices of Appeal)",
+                "level": "National — Judiciary",
+                "arm": "judiciary",
+                "current_officeholder": "President: Justice Daniel Musinga",
+                "party": null,
+                "since": null,
+                "salary_ksh_monthly_gross": "850000–950000",
+                "salary_source": "SRC Judiciary schedule, FY 2024/25 (estimated)",
+                "appointment_method": "JSC competitive interviews → NA approval → Presidential appointment (Art. 166)",
+                "constitutional_basis": "Art. 164, Constitution of Kenya 2010",
+                "term": "Until age 70",
+                "notes": "Hears appeals from High Court; also hears electoral disputes at county level",
+                "children": [
+                  {
+                    "id": "high_court",
+                    "position": "High Court (~160 Judges)",
+                    "level": "National / County — Judiciary",
+                    "arm": "judiciary",
+                    "current_officeholder": "Principal Judge + Judges deployed across 47 counties",
+                    "party": null,
+                    "since": null,
+                    "salary_ksh_monthly_gross": "550000–700000",
+                    "salary_source": "SRC Judiciary schedule, FY 2024/25 (estimated)",
+                    "appointment_method": "JSC competitive recruitment → Presidential appointment (Art. 166)",
+                    "constitutional_basis": "Art. 165, Constitution of Kenya 2010",
+                    "term": "Until age 70",
+                    "notes": "Includes specialised divisions: Employment & Labour Relations Court, Environment & Land Court",
+                    "children": [
+                      {
+                        "id": "magistrates_courts",
+                        "position": "Magistrates' Courts",
+                        "level": "Sub-County / Constituency — Judiciary",
+                        "arm": "judiciary",
+                        "current_officeholder": "Chief Magistrates, Senior Principal Magistrates, Principal Magistrates, Senior Resident Magistrates, Resident Magistrates — varies",
+                        "party": null,
+                        "since": null,
+                        "salary_ksh_monthly_gross": "varies",
+                        "salary_source": "JSC/SRC Judiciary schedule",
+                        "appointment_method": "Recruited and appointed by the Judicial Service Commission (Art. 172)",
+                        "constitutional_basis": "Art. 169, Constitution of Kenya 2010; Magistrates' Courts Act",
+                        "term": "Until age 65",
+                        "notes": "Also includes Kadhis' Courts: Chief Kadhi — Sheikh Abdulhalim Mohammed",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "county_governments",
+        "position": "County Governments (47 Counties)",
+        "level": "County — Devolved",
+        "arm": "county",
+        "current_officeholder": "47 elected Governors (see members array)",
+        "party": null,
+        "since": "September 2022",
+        "salary_ksh_monthly_gross": null,
+        "salary_source": null,
+        "appointment_method": "Governors elected by popular vote per county (Art. 180)",
+        "constitutional_basis": "Chapter 11 (Art. 174–200); County Governments Act, 2012",
+        "term": "5 years, max 2 terms (2022–2027)",
+        "notes": "Devolved government — independent of the Executive; funded via equitable share from national revenue",
+        "members": [
+          {
+            "county_code": 1,
+            "county": "Mombasa",
+            "governor": "Abdullswamad Shariff Nassir",
+            "deputy_governor": "William Kingi Saisi",
+            "party": "ODM"
+          },
+          {
+            "county_code": 2,
+            "county": "Kwale",
+            "governor": "Fatuma Mohamed Achani",
+            "deputy_governor": "Chiriku Monjea",
+            "party": "UDA"
+          },
+          {
+            "county_code": 3,
+            "county": "Kilifi",
+            "governor": "Gideon Maitha Mung'aro",
+            "deputy_governor": "Kenneth Kamto",
+            "party": "ODM"
+          },
+          {
+            "county_code": 4,
+            "county": "Tana River",
+            "governor": "Dhadho Godhana",
+            "deputy_governor": "Osman Ali Ibrahim",
+            "party": "ODM"
+          },
+          {
+            "county_code": 5,
+            "county": "Lamu",
+            "governor": "Issa Timamy",
+            "deputy_governor": "Raphael Munyithya Kithome",
+            "party": "ANC"
+          },
+          {
+            "county_code": 6,
+            "county": "Taita-Taveta",
+            "governor": "Andrew Mwadime",
+            "deputy_governor": "Majala Malachy",
+            "party": "Independent"
+          },
+          {
+            "county_code": 7,
+            "county": "Garissa",
+            "governor": "Nathif Jama Adam",
+            "deputy_governor": "Deka Bare",
+            "party": "ODM"
+          },
+          {
+            "county_code": 8,
+            "county": "Wajir",
+            "governor": "Ahmed Abdullahi Jiir",
+            "deputy_governor": "Hassan Abdullahi",
+            "party": "ODM"
+          },
+          {
+            "county_code": 9,
+            "county": "Mandera",
+            "governor": "Mohamed Adan Khalif",
+            "deputy_governor": "Abdi Hassan Mohamad",
+            "party": "UDM"
+          },
+          {
+            "county_code": 10,
+            "county": "Marsabit",
+            "governor": "Mohamud Ali Gashin",
+            "deputy_governor": "Diba Jaldesa Guyo",
+            "party": "UDM"
+          },
+          {
+            "county_code": 11,
+            "county": "Isiolo",
+            "governor": "Abdi Ibrahim Guyo",
+            "deputy_governor": "Mohamed Golicha",
+            "party": "Jubilee"
+          },
+          {
+            "county_code": 12,
+            "county": "Meru",
+            "governor": "Isaac Mutuma Murega",
+            "deputy_governor": "Peter Miriti",
+            "party": "Independent",
+            "notes": "Replaced Kawira Mwangaza who was removed by County Assembly in 2024"
+          },
+          {
+            "county_code": 13,
+            "county": "Tharaka Nithi",
+            "governor": "Onesmus Muthomi Njuki",
+            "deputy_governor": "Peter Gitari",
+            "party": "UDA"
+          },
+          {
+            "county_code": 14,
+            "county": "Embu",
+            "governor": "Cecily Mbarire",
+            "deputy_governor": "David Kariuki Mathenge",
+            "party": "UDA"
+          },
+          {
+            "county_code": 15,
+            "county": "Kitui",
+            "governor": "Julius Malombe",
+            "deputy_governor": "Augustine Kanani",
+            "party": "Wiper (WDP)"
+          },
+          {
+            "county_code": 16,
+            "county": "Machakos",
+            "governor": "Wavinya Ndeti",
+            "deputy_governor": "Francis Mwangangi",
+            "party": "Wiper (WDP)"
+          },
+          {
+            "county_code": 17,
+            "county": "Makueni",
+            "governor": "Mutula Kilonzo Jnr",
+            "deputy_governor": "Ruth Sitienei",
+            "party": "Wiper (WDP)"
+          },
+          {
+            "county_code": 18,
+            "county": "Nyandarua",
+            "governor": "Moses Badilisha Kiarie",
+            "deputy_governor": "David Githiari",
+            "party": "UDA"
+          },
+          {
+            "county_code": 19,
+            "county": "Nyeri",
+            "governor": "Edward Mutahi Kahiga",
+            "deputy_governor": "James Muriithi",
+            "party": "UDA"
+          },
+          {
+            "county_code": 20,
+            "county": "Kirinyaga",
+            "governor": "Anne Mumbi Waiguru",
+            "deputy_governor": "David Githinji",
+            "party": "UDA"
+          },
+          {
+            "county_code": 21,
+            "county": "Muranga",
+            "governor": "Irungu Kangata",
+            "deputy_governor": "Joe Nyutu",
+            "party": "UDA"
+          },
+          {
+            "county_code": 22,
+            "county": "Kiambu",
+            "governor": "Kimani Wamatangi",
+            "deputy_governor": "Grace Ndung'u",
+            "party": "UDA"
+          },
+          {
+            "county_code": 23,
+            "county": "Turkana",
+            "governor": "Jeremiah Ekidor Lomurkai",
+            "deputy_governor": "Julius Lomurukai",
+            "party": "ODM"
+          },
+          {
+            "county_code": 24,
+            "county": "West Pokot",
+            "governor": "Simon Kachapin",
+            "deputy_governor": "David Chombo",
+            "party": "UDA"
+          },
+          {
+            "county_code": 25,
+            "county": "Samburu",
+            "governor": "Jonathan Lati Leleliit",
+            "deputy_governor": "Namia Lentoijoni",
+            "party": "UDA"
+          },
+          {
+            "county_code": 26,
+            "county": "Trans-Nzoia",
+            "governor": "George Natembeya",
+            "deputy_governor": "Stanley Tarus",
+            "party": "DAP-K"
+          },
+          {
+            "county_code": 27,
+            "county": "Uasin Gishu",
+            "governor": "Jonathan Bii",
+            "deputy_governor": "Caroline Sang",
+            "party": "UDA"
+          },
+          {
+            "county_code": 28,
+            "county": "Elgeyo-Marakwet",
+            "governor": "Wesley Rotich",
+            "deputy_governor": "Eric Mutai",
+            "party": "UDA"
+          },
+          {
+            "county_code": 29,
+            "county": "Nandi",
+            "governor": "Stephen Sang",
+            "deputy_governor": "David Chirchir",
+            "party": "UDA"
+          },
+          {
+            "county_code": 30,
+            "county": "Baringo",
+            "governor": "Benjamin Cheboi",
+            "deputy_governor": "Julius Tarus",
+            "party": "UDA"
+          },
+          {
+            "county_code": 31,
+            "county": "Laikipia",
+            "governor": "Joshua Irungu",
+            "deputy_governor": "John Mwangi Maringa",
+            "party": "UDA"
+          },
+          {
+            "county_code": 32,
+            "county": "Nakuru",
+            "governor": "Susan Kihika",
+            "deputy_governor": "David Kones",
+            "party": "UDA"
+          },
+          {
+            "county_code": 33,
+            "county": "Narok",
+            "governor": "Patrick Ole Ntutu",
+            "deputy_governor": "Gabriel Ole Tiampati",
+            "party": "UDA"
+          },
+          {
+            "county_code": 34,
+            "county": "Kajiado",
+            "governor": "Joseph Jama Ole Lenku",
+            "deputy_governor": "Joseph Kinyua",
+            "party": "ODM"
+          },
+          {
+            "county_code": 35,
+            "county": "Kericho",
+            "governor": "Dr. Erick Kipkoech Mutai",
+            "deputy_governor": "Josephat Rotich",
+            "party": "UDA"
+          },
+          {
+            "county_code": 36,
+            "county": "Bomet",
+            "governor": "Hillary Barchok",
+            "deputy_governor": "Shadrack Mutai",
+            "party": "UDA"
+          },
+          {
+            "county_code": 37,
+            "county": "Kakamega",
+            "governor": "Fernandes Odinga Barasa",
+            "deputy_governor": "Nicholas Dhure",
+            "party": "ODM"
+          },
+          {
+            "county_code": 38,
+            "county": "Vihiga",
+            "governor": "Dr. Wilber Khasilwa Ottichilo",
+            "deputy_governor": "Patrick Saisi",
+            "party": "ODM"
+          },
+          {
+            "county_code": 39,
+            "county": "Bungoma",
+            "governor": "Kenneth Lusaka",
+            "deputy_governor": "Ngome Kibanani",
+            "party": "FORD-Kenya"
+          },
+          {
+            "county_code": 40,
+            "county": "Busia",
+            "governor": "Paul Otuoma",
+            "deputy_governor": "Geoffrey Opudo",
+            "party": "ODM"
+          },
+          {
+            "county_code": 41,
+            "county": "Siaya",
+            "governor": "James Orengo",
+            "deputy_governor": "William Oduol",
+            "party": "ODM"
+          },
+          {
+            "county_code": 42,
+            "county": "Kisumu",
+            "governor": "Peter Anyang' Nyong'o",
+            "deputy_governor": "Mathews Owili",
+            "party": "ODM"
+          },
+          {
+            "county_code": 43,
+            "county": "Homa Bay",
+            "governor": "Gladys Wanga",
+            "deputy_governor": "Hamilton Orata",
+            "party": "ODM"
+          },
+          {
+            "county_code": 44,
+            "county": "Migori",
+            "governor": "Ochilo Ayacko",
+            "deputy_governor": "Martin Owino",
+            "party": "ODM"
+          },
+          {
+            "county_code": 45,
+            "county": "Kisii",
+            "governor": "Simba Arati",
+            "deputy_governor": "Joash Maangi",
+            "party": "ODM"
+          },
+          {
+            "county_code": 46,
+            "county": "Nyamira",
+            "governor": "Amos Kimwomi Nyaribo",
+            "deputy_governor": "Timothy Bosire",
+            "party": "UPA"
+          },
+          {
+            "county_code": 47,
+            "county": "Nairobi City",
+            "governor": "Sakaja Arthur Johnson",
+            "deputy_governor": "James Muchiri",
+            "party": "UDA"
+          }
+        ],
+        "children": [
+          {
+            "id": "county_assembly_structure",
+            "position": "County Assembly (×47 — one per county)",
+            "level": "County — Legislature",
+            "arm": "county",
+            "current_officeholder": "Speaker elected by MCAs in each County Assembly (47 Speakers total)",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": 549283,
+            "salary_source": "SRC Gazette Notice No. 10350 (9 Aug 2023) — Speaker salary",
+            "appointment_method": "Speaker elected by MCAs; MCAs elected by popular vote per ward (Art. 177)",
+            "constitutional_basis": "Art. 176–178, Constitution of Kenya 2010",
+            "term": "5 years",
+            "notes": "~1,450+ ward seats + nominated MCAs for gender balance (one-third rule)",
+            "children": [
+              {
+                "id": "mcas",
+                "position": "Members of County Assembly — MCAs (~1,450+ elected)",
+                "level": "Ward — County Legislature",
+                "arm": "county",
+                "current_officeholder": "Varies by ward — elected per ward every 5 years",
+                "party": "Various",
+                "since": "September 2022",
+                "salary_ksh_monthly_gross": 164588,
+                "salary_breakdown": {
+                  "basic": 98753,
+                  "house_allowance": 40000,
+                  "market_adjustment": 25835
+                },
+                "salary_source": "SRC Gazette Notice No. 10350 (9 Aug 2023)",
+                "appointment_method": "Popular direct election — simple majority per ward (Art. 177); additional nominated seats for gender balance",
+                "constitutional_basis": "Art. 177, Constitution of Kenya 2010",
+                "term": "5 years",
+                "notes": "Full MCA lists maintained by each County Assembly — ~1,450 elected + ~500 nominated = ~1,950 total MCAs",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "cecms",
+            "position": "County Executive Committee Members — CECMs (up to 10 per county)",
+            "level": "County — Executive",
+            "arm": "county",
+            "current_officeholder": "Varies by county — appointed by respective Governor, approved by County Assembly",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": 422526,
+            "salary_breakdown": {
+              "basic": 253516,
+              "house_allowance": 80000,
+              "market_adjustment": 89010
+            },
+            "salary_source": "SRC Gazette Notice No. 10348 (9 Aug 2023)",
+            "appointment_method": "Nominated by Governor; approved by County Assembly (Art. 179)",
+            "constitutional_basis": "Art. 179, Constitution of Kenya 2010",
+            "term": "Pleasure of Governor",
+            "notes": "Maximum 10 CECMs per county × 47 counties = up to 470 positions. Equivalent of Cabinet Secretaries at county level.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "independent_offices",
+        "position": "Independent Constitutional Offices and Commissions",
+        "level": "National",
+        "arm": "independent",
+        "current_officeholder": "Multiple — see children",
+        "party": null,
+        "since": null,
+        "salary_ksh_monthly_gross": null,
+        "salary_source": null,
+        "appointment_method": "Various — established under Chapter 15, Constitution of Kenya 2010",
+        "constitutional_basis": "Chapter 15 (Art. 228–254), Constitution of Kenya 2010",
+        "term": null,
+        "notes": "These offices are independent of all three arms of government",
+        "children": [
+          {
+            "id": "dpp",
+            "position": "Director of Public Prosecutions (DPP)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Renson M. Ingonga, CBS",
+            "party": null,
+            "since": "2022",
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Nominated by President; approved by National Assembly (Art. 157)",
+            "constitutional_basis": "Art. 157–158, Constitution of Kenya 2010",
+            "term": "8 years, non-renewable",
+            "notes": "Replaced Noordin Haji who became NIS Director General",
+            "children": []
+          },
+          {
+            "id": "auditor_general",
+            "position": "Auditor General",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Nancy Gathungu",
+            "party": null,
+            "since": "2019",
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Nominated by President; approved by National Assembly (Art. 229)",
+            "constitutional_basis": "Art. 229, Constitution of Kenya 2010",
+            "term": "8 years, non-renewable",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "controller_of_budget",
+            "position": "Controller of Budget",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "FCPA Dr. Margaret Nyakang'o, CBS",
+            "party": null,
+            "since": "2019",
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Nominated by President; approved by National Assembly (Art. 228)",
+            "constitutional_basis": "Art. 228, Constitution of Kenya 2010",
+            "term": "8 years, non-renewable",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "iebc",
+            "position": "Independent Electoral and Boundaries Commission (IEBC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chairperson: Erastus Edung Ethekon",
+            "party": null,
+            "since": "June 2025",
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Selection Panel recommends; President appoints with National Assembly approval (IEBC Act)",
+            "constitutional_basis": "Art. 88, Constitution of Kenya 2010",
+            "term": "6 years, non-renewable",
+            "notes": "Reconstituted June 2025 after being without commissioners since February 2023 (Gazette Notices No. 7724 & 7725, 10 June 2025)",
+            "members": [
+              {
+                "role": "Chairperson",
+                "name": "Erastus Edung Ethekon"
+              },
+              {
+                "role": "Commissioner",
+                "name": "Ann Njeru Nderitu"
+              },
+              {
+                "role": "Commissioner",
+                "name": "Moses Alutalala Mukhwana"
+              },
+              {
+                "role": "Commissioner",
+                "name": "Mary Karen Sorobit"
+              },
+              {
+                "role": "Commissioner",
+                "name": "Hassan Noor Hassan"
+              },
+              {
+                "role": "Commissioner",
+                "name": "Prof. Francis Odhiambo Aduol"
+              },
+              {
+                "role": "Commissioner",
+                "name": "Fahima Araphat Abdallah"
+              }
+            ],
+            "children": []
+          },
+          {
+            "id": "eacc",
+            "position": "Ethics and Anti-Corruption Commission (EACC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Archbishop (Rtd) Eliud Wabukala; VC: Dr. Monica Wanjiru Muiru; CEO: Twalib Abdallah Mbarak",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Nominated by President; approved by National Assembly (Art. 79)",
+            "constitutional_basis": "Art. 79–84, Constitution of Kenya 2010",
+            "term": "6 years",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "src",
+            "position": "Salaries and Remuneration Commission (SRC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Lyn Mengich",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval (Art. 230)",
+            "constitutional_basis": "Art. 230, Constitution of Kenya 2010; SRC Act, 2011",
+            "term": "6 years",
+            "notes": "Sets and reviews salaries of all State Officers",
+            "children": []
+          },
+          {
+            "id": "nlc",
+            "position": "National Land Commission (NLC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Samuel Tororei",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval (Art. 67)",
+            "constitutional_basis": "Art. 67–68, Constitution of Kenya 2010",
+            "term": "6 years",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "psc",
+            "position": "Public Service Commission (PSC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Anthony Muchiri",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval (Art. 233)",
+            "constitutional_basis": "Art. 233–234, Constitution of Kenya 2010",
+            "term": "6 years",
+            "notes": "Recruits and disciplines national government civil servants",
+            "children": []
+          },
+          {
+            "id": "ncic",
+            "position": "National Cohesion and Integration Commission (NCIC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Samuel Kobia",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval",
+            "constitutional_basis": "National Cohesion and Integration Act, 2008; Art. 248",
+            "term": "6 years",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "ipoa",
+            "position": "Independent Policing Oversight Authority (IPOA)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Anne Makori",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval",
+            "constitutional_basis": "IPOA Act, 2011; Art. 245",
+            "term": null,
+            "notes": "Civilian oversight of the National Police Service",
+            "children": []
+          },
+          {
+            "id": "npsc",
+            "position": "National Police Service Commission (NPSC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Eliud Kinuthia, CBS",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval (Art. 246)",
+            "constitutional_basis": "Art. 246, Constitution of Kenya 2010",
+            "term": "6 years",
+            "notes": "Manages service matters (recruitment, discipline, promotions) for the National Police Service",
+            "children": []
+          },
+          {
+            "id": "ombudsman",
+            "position": "Commission on Administrative Justice (Ombudsman)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Ben Sihanya",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval (Art. 59)",
+            "constitutional_basis": "Art. 59, Constitution of Kenya 2010; Commission on Administrative Justice Act",
+            "term": "6 years",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "knhrc",
+            "position": "Kenya National Human Rights Commission (KNHRC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Roseline Odede",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval (Art. 59)",
+            "constitutional_basis": "Art. 59, Constitution of Kenya 2010",
+            "term": "6 years",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "ngec",
+            "position": "National Gender and Equality Commission (NGEC)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Janet Mururi Mawiyoo",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval",
+            "constitutional_basis": "Art. 27; National Gender and Equality Commission Act",
+            "term": "6 years",
+            "notes": null,
+            "children": []
+          },
+          {
+            "id": "cra",
+            "position": "Commission on Revenue Allocation (CRA)",
+            "level": "National",
+            "arm": "independent",
+            "current_officeholder": "Chair: Dr. Mary Chebukati",
+            "party": null,
+            "since": null,
+            "salary_ksh_monthly_gross": null,
+            "salary_source": null,
+            "appointment_method": "Competitive recruitment; National Assembly approval (Art. 215)",
+            "constitutional_basis": "Art. 215–216, Constitution of Kenya 2010",
+            "term": "6 years",
+            "notes": "Recommends equitable revenue sharing between national and county governments",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
