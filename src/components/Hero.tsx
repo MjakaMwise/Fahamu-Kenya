@@ -22,6 +22,10 @@ const Hero = () => {
           Know Who<br /><em className="italic text-kenya-green relative">Governs</em> You
         </h1>
 
+        <blockquote className="text-fk-slate italic font-medium mb-6 animate-fade-slide-up-1" style={{ fontSize: "clamp(14px, 1.8vw, 18px)" }}>
+          "Be the change you want to see" — <span className="not-italic font-semibold text-fk-black">Sammy Masamki</span>
+        </blockquote>
+
         <p className="text-fk-slate font-normal leading-relaxed max-w-[620px] mx-auto mb-10 animate-fade-slide-up-2" style={{ fontSize: "clamp(16px, 2.2vw, 20px)" }}>
           Every leader, every office, every salary — mapped from the President to your Village Elder. Because informed citizens build a stronger Kenya.
         </p>
