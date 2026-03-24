@@ -23,7 +23,7 @@ const Navbar = () => {
 
   return (
     <nav
-      className={`fixed top-0 left-0 right-0 z-[1000] flex items-center justify-between px-8 transition-all duration-400 ${
+      className={`fixed top-0 left-0 right-0 z-[1000] flex items-center justify-between px-8 transition-all duration-300 ${
         scrolled
           ? "py-2.5 bg-fk-white/85 backdrop-blur-[20px] backdrop-saturate-[1.4] border-b border-fk-black/[0.06]"
           : "py-4"
@@ -39,7 +39,7 @@ const Navbar = () => {
         <span className="font-display text-[22px] tracking-tight">Fahamu Kenya</span>
       </a>
 
-      <ul className="hidden md:flex items-center gap-2 list-none">
+      <ul className="hidden lg:flex items-center gap-2 list-none">
         {navLinks.map((link) => (
           <li key={link.href}>
             <a
@@ -53,7 +53,7 @@ const Navbar = () => {
       </ul>
 
       <button
-        className="md:hidden bg-transparent border-none cursor-pointer p-2"
+        className="lg:hidden bg-transparent border-none cursor-pointer p-2"
         onClick={() => setMobileOpen(!mobileOpen)}
         aria-label="Menu"
       >
@@ -61,7 +61,7 @@ const Navbar = () => {
       </button>
 
       {mobileOpen && (
-        <div className="absolute top-full left-0 right-0 bg-fk-white/95 backdrop-blur-xl border-b border-border p-4 md:hidden">
+        <div className="absolute top-full left-0 right-0 bg-fk-white/95 backdrop-blur-xl border-b border-border p-4 lg:hidden">
           <ul className="list-none flex flex-col gap-1">
             {navLinks.map((link) => (
               <li key={link.href}>
