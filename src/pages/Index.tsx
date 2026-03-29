@@ -10,6 +10,7 @@ import Quiz from "@/components/Quiz";
 import CountyExplorer from "@/components/CountyExplorer";
 import MCAExplorer from "@/components/MCAExplorer";
 import ParastatalPayroll from "@/components/ParastatalPayroll";
+import GovernmentFinance from "@/components/GovernmentFinance";
 import Constitution from "@/components/Constitution";
 import Footer from "@/components/Footer";
 
@@ -28,6 +29,7 @@ const Index = () => {
       <CommandTree filterCls={filterCls} />
       <SalaryInsights />
       <ParastatalPayroll />
+      <GovernmentFinance />
       <CountyExplorer />
       <MCAExplorer />
       <Quiz />

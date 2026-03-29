@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /c/Users/Admin/Documents -name *.json)",
+      "Bash(npm run:*)"
+    ]
+  }
+}

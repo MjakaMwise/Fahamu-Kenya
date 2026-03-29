@@ -5,6 +5,7 @@ const navLinks = [
   { label: "Why It Matters", href: "#why" },
   { label: "Structure", href: "#structure" },
   { label: "Salaries", href: "#salaries" },
+  { label: "Finance", href: "#finance" },
   { label: "Counties", href: "#counties-explorer" },
   { label: "MPs & MCAs", href: "#mca-explorer" },
   { label: "Quiz", href: "#quiz" },
