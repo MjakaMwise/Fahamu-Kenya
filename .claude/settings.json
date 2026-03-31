@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Admin/Downloads/**)",
+      "Read(//c/Users/Admin/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Admin\\Downloads"
+    ]
+  }
+}

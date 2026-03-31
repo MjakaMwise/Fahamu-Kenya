@@ -1,4 +1,5 @@
 import { useRef, useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 
 const articles = [
   { ref: "Chapter 9 — Executive", text: "The President is the Head of State, Commander-in-Chief, and chairs the Cabinet. Executive authority derives from the people.", color: "hsl(var(--executive))", bg: "hsl(var(--executive-bg))" },
@@ -33,6 +34,15 @@ const Constitution = () => {
           </p>
         </div>
 
+        <div className="flex justify-center mb-8">
+          <Link
+            to="/constitution"
+            className="inline-flex items-center gap-2 no-underline bg-fk-charcoal text-fk-white text-sm font-medium px-5 py-2.5 rounded-pill hover:bg-fk-black transition-colors"
+          >
+            <svg width="15" height="15" viewBox="0 0 15 15" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.5 1.5a6 6 0 1 0 0 12 6 6 0 0 0 0-12zm0 1a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm.5 2.5h-1v3.5l3 1.8.5-.87-2.5-1.5V5z" fill="currentColor"/></svg>
+            Explore Full Constitution →
+          </Link>
+        </div>
         <div className="max-w-[900px] mx-auto grid grid-cols-1 md:grid-cols-2 bg-card rounded-lg-custom overflow-hidden shadow-fk-lg border border-fk-black/[0.06]">
           <div className="bg-gradient-to-br from-fk-charcoal to-fk-black p-12 max-md:p-8 flex flex-col justify-center text-fk-white">
             <h3 className="font-display text-[28px] mb-4 leading-snug">The Supreme Law of Kenya</h3>

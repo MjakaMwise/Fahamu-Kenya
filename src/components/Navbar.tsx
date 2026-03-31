@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 
 const navLinks = [
@@ -9,7 +10,7 @@ const navLinks = [
   { label: "Counties", href: "#counties-explorer" },
   { label: "MPs & MCAs", href: "#mca-explorer" },
   { label: "Quiz", href: "#quiz" },
-  { label: "Constitution", href: "#constitution" },
+  { label: "Constitution", href: "/constitution" },
 ];
 
 const Navbar = () => {
@@ -43,12 +44,21 @@ const Navbar = () => {
       <ul className="hidden lg:flex items-center gap-2 list-none">
         {navLinks.map((link) => (
           <li key={link.href}>
-            <a
-              href={link.href}
-              className="no-underline text-fk-slate text-sm font-medium px-4 py-2 rounded-pill transition-all hover:bg-fk-black/5 hover:text-fk-charcoal"
-            >
-              {link.label}
-            </a>
+            {link.href.startsWith("/") ? (
+              <Link
+                to={link.href}
+                className="no-underline text-fk-slate text-sm font-medium px-4 py-2 rounded-pill transition-all hover:bg-fk-black/5 hover:text-fk-charcoal"
+              >
+                {link.label}
+              </Link>
+            ) : (
+              <a
+                href={link.href}
+                className="no-underline text-fk-slate text-sm font-medium px-4 py-2 rounded-pill transition-all hover:bg-fk-black/5 hover:text-fk-charcoal"
+              >
+                {link.label}
+              </a>
+            )}
           </li>
         ))}
       </ul>
@@ -66,13 +76,23 @@ const Navbar = () => {
           <ul className="list-none flex flex-col gap-1">
             {navLinks.map((link) => (
               <li key={link.href}>
-                <a
-                  href={link.href}
-                  onClick={() => setMobileOpen(false)}
-                  className="block no-underline text-fk-charcoal text-sm font-medium px-4 py-3 rounded-lg hover:bg-fk-black/5"
-                >
-                  {link.label}
-                </a>
+                {link.href.startsWith("/") ? (
+                  <Link
+                    to={link.href}
+                    onClick={() => setMobileOpen(false)}
+                    className="block no-underline text-fk-charcoal text-sm font-medium px-4 py-3 rounded-lg hover:bg-fk-black/5"
+                  >
+                    {link.label}
+                  </Link>
+                ) : (
+                  <a
+                    href={link.href}
+                    onClick={() => setMobileOpen(false)}
+                    className="block no-underline text-fk-charcoal text-sm font-medium px-4 py-3 rounded-lg hover:bg-fk-black/5"
+                  >
+                    {link.label}
+                  </a>
+                )}
               </li>
             ))}
           </ul>
